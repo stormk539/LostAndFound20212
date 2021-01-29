@@ -1430,3 +1430,333 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-01.31.48:450][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
 [2021.01.29-01.31.48:617][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
 [2021.01.29-01.31.48:800][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.29-01.40.26:804][679]LogActorFactory: Actor Factory created Cube
+[2021.01.29-01.40.27:412][711]LogActorFactory: Actor Factory created Cube
+[2021.01.29-01.40.35:050][163]MapCheck: New page: Map Check
+[2021.01.29-01.40.35:067][163]LightingResults: New page: Lighting Build - Jan 28, 2021, 3:40:35 PM
+[2021.01.29-01.40.35:102][163]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.29-01.40.35:107][163]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.29-01.40.35:107][163]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.29-01.40.35:108][163]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.29-01.40.35:108][163]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3576
+[2021.01.29-01.40.39:662][163]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.29-01.40.39:662][163]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.29-01.40.39:662][163]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.29-01.40.39:662][163]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.29-01.40.39:662][163]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.29-01.40.39:806][163]LogEditorBuildUtils: Build time 0:04
+[2021.01.29-01.40.39:814][163]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_68, compiling. Is special engine material.
+[2021.01.29-01.40.39:817][163]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_68, compiling. Is special engine material.
+[2021.01.29-01.40.39:835][164]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.29-01.40.39:835][164]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.29-01.40.39:835][164]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.29-01.40.39:835][164]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.01.29-01.40.39:924][167]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2021.01.29-01.40.40:489][167]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2021.01.29-01.40.40:517][168]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.29-01.40.40:517][168]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.29-01.40.40:517][168]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.01.29-01.40.40:517][168]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.29-01.40.42:125][169]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.01.29-01.40.43:138][199]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.29-01.40.44:992][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.01.29-01.41.10:751][768]Job is a success!
+[2021.01.29-01.41.11:019][769]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2021.01.29-01.41.11:019][769]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.29-01.41.11:019][769]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2021.01.29-01.41.11:019][769]LogVolumetricLightmapImport:      Bricks at depth
+[2021.01.29-01.41.11:019][769]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2021.01.29-01.41.11:019][769]LogVolumetricLightmapImport:          1: 9.8% covering 6.2% of volume
+[2021.01.29-01.41.11:019][769]LogVolumetricLightmapImport:          2: 87.8% covering 0.9% of volume
+[2021.01.29-01.41.11:019][769]LogVolumetricLightmapImport:      Bricks in each level
+[2021.01.29-01.41.11:019][769]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 41 bricks 	 100.0% (Persistent Level)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:829][769]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 256X256)
+[2021.01.29-01.41.12:830][769]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_27 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_28 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_29 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_30 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_31 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_32 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_33 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_34 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_35 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 256X256)
+[2021.01.29-01.41.12:831][769]LogTexture: Display: Building textures: SkyOcclusion1_36 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_37 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_38 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_39 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_40 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_41 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_42 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_43 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_44 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_45 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_46 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_47 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_48 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_49 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_50 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_51 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_52 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: SkyOcclusion1_54 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 256X256)
+[2021.01.29-01.41.12:832][769]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_56 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_55 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_56 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_57 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_57 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_58 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_58 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_59 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_60 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_61 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_53 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_60 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_61 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_62 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_62 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_63 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_63 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_64 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_65 (AutoDXT, 256X128)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_65 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_65 (DXT1, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: SkyOcclusion1_66 (AutoDXT, 64X32)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_66 (AutoDXT, 64X64)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: LQ_Lightmap_1_66 (DXT1, 64X64)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 256X256)
+[2021.01.29-01.41.12:833][769]LogTexture: Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 256X256)
+[2021.01.29-01.41.14:429][769]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 128X128)
+[2021.01.29-01.41.14:429][769]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 256X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_131 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_139 (G8, 32X32)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_134 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_132 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_130 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_133 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_135 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_136 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_138 (G8, 128X128)
+[2021.01.29-01.41.14:430][769]LogTexture: Display: Building textures: ShadowMapTexture2D_137 (G8, 128X128)
+[2021.01.29-01.41.14:514][769]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 1024X1024)
+[2021.01.29-01.41.14:514][769]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 67 meshes in 67 LightmapResourceClusters (1.0 Meshes per cluster).
+[2021.01.29-01.41.14:518][769]Lightmass on LAPTOP-HGLTF1KN: 28.7 sec total, 860 ms importing, 906 ms setup, 8.00 sec photons, 18.9 sec processing, 0 ms extra exporting [67/67 mappings]. Threads: 3:28 min total, 2:01 min processing.
+[2021.01.29-01.41.14:555][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.01.29-01.41.14:598][769]LogStaticLightingSystem: Illumination: 39.4 sec (1.65 sec encoding lightmaps, 1.67 sec encoding shadowmaps)
+[2021.01.29-01.41.14:598][769]LogStaticLightingSystem: Lightmap texture memory:  21.3 MB (21.3 MB streaming, 0.0 MB non-streaming), 132 textures
+[2021.01.29-01.41.14:598][769]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 66 textures
+[2021.01.29-01.41.14:691][769]DumpUnbuiltLightIteractions
+[2021.01.29-01.41.14:691][769]Lights with unbuilt interactions: 0
+[2021.01.29-01.41.14:691][769]
+[2021.01.29-01.41.14:691][769]Primitives with unbuilt interactions: 0
+[2021.01.29-01.41.14:767][770]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.29-01.41.14:767][770]MapCheck: New page: FirstPersonExampleMap - Jan 28, 2021, 3:41:14 PM
+[2021.01.29-01.41.14:767][770]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.359ms to complete.
+[2021.01.29-01.41.23:185][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.01.29-01.41.23:444][923]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap673C9CCE48A79289243B4D8E12D165CD.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-01.41.23:989][923]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltData4E6026CF4EF88DA5AF166699F63FCFA3.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.29-01.41.24:021][923]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-01.41.24:021][923]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.29-01.41.24:021][923]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.29-01.41.25:393][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.29-01.41.28:346][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.29-01.41.28:455][177]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap5DF387C741F31CBC9BA1258D35C30F8B.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-01.41.29:043][177]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltDataA73C20A349FFA5A1B67D31ADC7B1DA7C.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.29-01.41.29:054][177]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-01.41.29:054][177]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.29-01.41.29:054][177]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
