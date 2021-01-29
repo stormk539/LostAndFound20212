@@ -1893,3 +1893,903 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-21.11.24:920][708]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.01.29-21.11.26:580][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2021.01.29-21.11.28:038][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.29-21.15.47:334][247]MapCheck: New page: Map Check
+[2021.01.29-21.15.47:360][247]Cmd: MAP REBUILD ALLVISIBLE
+[2021.01.29-21.15.47:360][247]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.01.29-21.15.47:371][247]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.01.29-21.15.47:410][247]LightingResults: New page: Lighting Build - Jan 29, 2021, 11:15:47 AM
+[2021.01.29-21.15.47:791][247]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.29-21.15.47:897][247]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.29-21.15.47:913][247]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.29-21.15.48:443][247]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.29-21.15.48:443][247]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9500
+[2021.01.29-21.16.00:120][247]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.29-21.16.00:120][247]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.29-21.16.00:120][247]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.29-21.16.00:120][247]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.29-21.16.00:120][247]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.29-21.16.00:373][247]LogEditorBuildUtils: Build time 0:13
+[2021.01.29-21.16.00:417][247]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1253, compiling. 
+[2021.01.29-21.16.00:424][247]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1253, compiling. 
+[2021.01.29-21.16.00:447][248]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.29-21.16.00:447][248]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.29-21.16.00:447][248]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.29-21.16.00:447][248]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.01.29-21.16.00:452][248]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1591, compiling. 
+[2021.01.29-21.16.00:456][248]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1591, compiling. 
+[2021.01.29-21.16.00:462][248]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1836, compiling. 
+[2021.01.29-21.16.00:466][248]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1836, compiling. 
+[2021.01.29-21.16.00:496][249]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_0, compiling. 
+[2021.01.29-21.16.00:500][249]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_0, compiling. 
+[2021.01.29-21.16.00:504][249]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1865, compiling. 
+[2021.01.29-21.16.00:507][249]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1865, compiling. 
+[2021.01.29-21.16.00:531][250]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1589, compiling. 
+[2021.01.29-21.16.00:536][250]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1589, compiling. 
+[2021.01.29-21.16.00:556][250]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.01.29-21.16.00:557][250]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.29-21.16.00:557][250]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.01.29-21.16.00:557][250]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.01.29-21.16.00:567][251]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1834, compiling. 
+[2021.01.29-21.16.00:573][251]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1834, compiling. 
+[2021.01.29-21.16.00:614][252]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_32, compiling. 
+[2021.01.29-21.16.00:621][252]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_32, compiling. 
+[2021.01.29-21.16.00:654][253]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_27, compiling. 
+[2021.01.29-21.16.00:663][253]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_27, compiling. 
+[2021.01.29-21.16.00:699][254]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_50, compiling. 
+[2021.01.29-21.16.00:704][254]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_50, compiling. 
+[2021.01.29-21.16.00:735][255]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_49, compiling. 
+[2021.01.29-21.16.00:744][255]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_49, compiling. 
+[2021.01.29-21.16.00:774][256]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1870, compiling. 
+[2021.01.29-21.16.00:778][256]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1870, compiling. 
+[2021.01.29-21.16.00:810][257]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_8, compiling. 
+[2021.01.29-21.16.00:815][257]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_8, compiling. 
+[2021.01.29-21.16.00:854][258]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1871, compiling. 
+[2021.01.29-21.16.00:860][258]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1871, compiling. 
+[2021.01.29-21.16.00:876][259]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1872, compiling. 
+[2021.01.29-21.16.00:882][259]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1872, compiling. 
+[2021.01.29-21.16.00:900][260]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_102, compiling. 
+[2021.01.29-21.16.00:906][260]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_102, compiling. 
+[2021.01.29-21.16.00:927][261]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_113, compiling. 
+[2021.01.29-21.16.00:931][261]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_113, compiling. 
+[2021.01.29-21.16.00:947][262]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_114, compiling. 
+[2021.01.29-21.16.00:952][262]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_114, compiling. 
+[2021.01.29-21.16.00:967][263]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_103, compiling. 
+[2021.01.29-21.16.00:973][263]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_103, compiling. 
+[2021.01.29-21.16.00:989][264]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_98, compiling. 
+[2021.01.29-21.16.00:995][264]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_98, compiling. 
+[2021.01.29-21.16.01:014][265]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ocean, compiling. 
+[2021.01.29-21.16.01:031][265]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ocean, compiling. 
+[2021.01.29-21.16.01:087][267]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeGround, compiling. 
+[2021.01.29-21.16.01:095][267]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeGround, compiling. 
+[2021.01.29-21.16.08:631][269]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 68
+[2021.01.29-21.16.08:631][269]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 59
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 51
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 38
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 33
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.01.29-21.16.08:632][269]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.29-21.16.13:551][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.01.29-21.16.44:234][189]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-21.16.44:818][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.01.29-21.16.54:863][735]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2021.01.29-21.16.55:167][735]Job has failed! Job is closed while Tasks are still PENDING
+[2021.01.29-21.16.55:168][735]DumpUnbuiltLightIteractions
+[2021.01.29-21.16.55:168][735]Lights with unbuilt interactions: 1
+[2021.01.29-21.16.55:168][735]    Light LightSource
+[2021.01.29-21.16.55:168][735]
+[2021.01.29-21.16.55:168][735]Primitives with unbuilt interactions: 88
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane32.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane68.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane67.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane66.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane65.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane64.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane63.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane62.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane61.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane60_59.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane59.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane58.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane57.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane56.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane55.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane54.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane53.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane52.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane51.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane50.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane49.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane48.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane47.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane46.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane45.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane44.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane43.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane42.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane41.StaticMeshComponent0
+[2021.01.29-21.16.55:168][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane40.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane39.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane38.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane37.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane36.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane35.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane34.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane33.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane31.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane30.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane29.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane28.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane27.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane26.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane25.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane24.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane23.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane22.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane21.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane20.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane19.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane18.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane17.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane16.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane15.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane14.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane13.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane12.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane11.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane10.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane9.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane8.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane7.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane6.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane5.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane_29.StaticMeshComponent0
+[2021.01.29-21.16.55:169][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_63
+[2021.01.29-21.16.55:169][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_62
+[2021.01.29-21.16.55:169][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_61
+[2021.01.29-21.16.55:169][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_60
+[2021.01.29-21.16.55:169][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_59
+[2021.01.29-21.16.55:169][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_58
+[2021.01.29-21.16.55:169][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_57
+[2021.01.29-21.16.55:169][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_55
+[2021.01.29-21.16.55:169][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_54
+[2021.01.29-21.16.55:169][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_53
+[2021.01.29-21.16.55:170][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_52
+[2021.01.29-21.16.55:170][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_51
+[2021.01.29-21.16.55:170][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_50
+[2021.01.29-21.16.55:170][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_49
+[2021.01.29-21.16.55:170][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_48
+[2021.01.29-21.16.55:170][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_45
+[2021.01.29-21.16.55:170][735]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_44
+[2021.01.29-21.16.55:170][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cylinder5.StaticMeshComponent0
+[2021.01.29-21.16.55:170][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cube_24.StaticMeshComponent0
+[2021.01.29-21.16.55:170][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cylinder4.StaticMeshComponent0
+[2021.01.29-21.16.55:170][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cylinder3.StaticMeshComponent0
+[2021.01.29-21.16.55:170][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cylinder2.StaticMeshComponent0
+[2021.01.29-21.16.55:170][735]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cylinder_18.StaticMeshComponent0
+[2021.01.29-21.16.55:361][736]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.29-21.16.55:361][736]MapCheck: New page: FirstPersonExampleMap - Jan 29, 2021, 11:16:55 AM
+[2021.01.29-21.16.55:362][736]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.01.29-21.16.55:363][736]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.292ms to complete.
+[2021.01.29-21.16.57:705][859]LogSlate: Took 0.026337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.29-21.17.00:954][ 48]LogSlate: Window 'Message Log' being destroyed
+[2021.01.29-21.17.00:962][ 48]LogSlate: Window 'Message Log' being destroyed
+[2021.01.29-21.18.27:389][ 40]Cmd: DELETE
+[2021.01.29-21.18.27:389][ 40]Cmd: ACTOR DELETE
+[2021.01.29-21.18.27:395][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.29-21.18.27:406][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.29-21.18.27:410][ 40]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.01.29-21.18.36:748][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.29-21.18.37:003][598]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap7211DE2849E5EEA72C67D58CCDAC2A8C.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-21.18.37:950][598]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltData4D3A32E7436BB35E812C5B997C4C2DAB.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.29-21.18.38:089][598]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-21.18.38:089][598]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.29-21.18.38:089][598]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.29-21.18.50:154][321]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-21.18.50:169][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-21.18.50:169][321]PIE: New page: PIE session: FirstPersonExampleMap (Jan 29, 2021, 11:18:50 AM)
+[2021.01.29-21.18.50:170][321]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.29-21.18.50:211][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041185s)
+[2021.01.29-21.18.50:212][321]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.29-21.18.50:213][321]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001532CC69000), frame # 98321
+[2021.01.29-21.18.50:213][321]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001532ACA1300), frame # 98321
+[2021.01.29-21.18.50:213][321]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2021.01.29-21.18.50:213][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.042792s)
+[2021.01.29-21.18.50:228][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.29-21.18.50:230][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-21.18.50:230][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-21.18.50:230][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-21.18.50:230][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-21.18.50:230][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-21.18.50:230][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-21.18.50:230][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-21.18.50:230][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-21.18.50:231][321]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-21.18.50:231][321]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-21.18.50:238][321]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-21.18.50:238][321]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-21.18.50:238][321]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.29-21.18.50:238][321]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.29-21.18.50:238][321]LogAudioMixer: Display: 4: BackLeft
+[2021.01.29-21.18.50:238][321]LogAudioMixer: Display: 5: BackRight
+[2021.01.29-21.18.50:238][321]LogAudioMixer: Display: 6: SideLeft
+[2021.01.29-21.18.50:238][321]LogAudioMixer: Display: 7: SideRight
+[2021.01.29-21.18.50:293][321]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.01.29-21.18.50:294][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-21.18.50:294][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-21.18.50:294][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-21.18.50:294][321]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-21.18.50:310][321]LogInit: FAudioDevice initialized.
+[2021.01.29-21.18.50:321][321]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-21.18.50:325][321]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.01.29-16.18.50
+[2021.01.29-21.18.50:326][321]LogWorld: Bringing up level for play took: 0.003369
+[2021.01.29-21.18.50:326][321]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.29-21.18.50:328][321]PIE: Server logged in
+[2021.01.29-21.18.50:329][321]PIE: Play in editor total start time 0.162 seconds.
+[2021.01.29-21.18.58:192][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-21.18.58:192][789]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.29-21.18.58:192][789]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-21.18.58:193][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-21.18.58:201][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-21.18.58:203][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-21.18.58:254][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-21.18.58:258][789]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001532CC69000), frame # 98789
+[2021.01.29-21.18.58:258][789]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001532ACA1300), frame # 98789
+[2021.01.29-21.18.58:259][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.01.29-21.18.58:285][790]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.29-21.19.15:341][810]MapCheck: New page: Map Check
+[2021.01.29-21.19.15:363][810]Cmd: MAP REBUILD ALLVISIBLE
+[2021.01.29-21.19.15:364][810]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.01.29-21.19.15:368][810]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.01.29-21.19.15:393][810]LightingResults: New page: Lighting Build - Jan 29, 2021, 11:19:15 AM
+[2021.01.29-21.19.15:428][810]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.29-21.19.15:433][810]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.29-21.19.15:433][810]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.29-21.19.15:435][810]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.29-21.19.15:435][810]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9500
+[2021.01.29-21.19.19:999][810]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.29-21.19.19:999][810]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.29-21.19.19:999][810]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.29-21.19.19:999][810]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.29-21.19.19:999][810]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.29-21.19.20:155][810]LogEditorBuildUtils: Build time 0:04
+[2021.01.29-21.19.20:276][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.29-21.19.34:262][616]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2021.01.29-21.19.35:011][616]Job has failed! Job is closed while Tasks are still PENDING
+[2021.01.29-21.19.35:011][616]DumpUnbuiltLightIteractions
+[2021.01.29-21.19.35:011][616]Lights with unbuilt interactions: 1
+[2021.01.29-21.19.35:011][616]    Light LightSource
+[2021.01.29-21.19.35:011][616]
+[2021.01.29-21.19.35:011][616]Primitives with unbuilt interactions: 87
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane33.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane32.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane31.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane68.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane67.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane66.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane65.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane64.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane63.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane62.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane61.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane60_59.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane59.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane58.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane57.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane56.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane55.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane54.StaticMeshComponent0
+[2021.01.29-21.19.35:011][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane53.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane52.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane51.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane50.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane49.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane48.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane47.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane46.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane45.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane44.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane43.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane42.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane41.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane40.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane39.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane38.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane37.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane36.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane35.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane34.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane30.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane29.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane28.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane27.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane26.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane25.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane24.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane23.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane22.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane21.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane20.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane19.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane18.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane17.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane16.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane15.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane14.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane13.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane12.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane11.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane10.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane9.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane8.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane7.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane6.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Plane5.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cylinder5.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cube_24.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cylinder4.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cylinder3.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cylinder2.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive StaticMeshComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Cylinder_18.StaticMeshComponent0
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_57
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_55
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_54
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_53
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_52
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_51
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_50
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_49
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_48
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_63
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_45
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_62
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_61
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_44
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_60
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_59
+[2021.01.29-21.19.35:012][616]    Primitive LandscapeComponent /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Landscape_0.LandscapeComponent_58
+[2021.01.29-21.19.35:108][617]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.29-21.19.35:109][617]MapCheck: New page: FirstPersonExampleMap - Jan 29, 2021, 11:19:35 AM
+[2021.01.29-21.19.35:109][617]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.01.29-21.19.35:109][617]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.761ms to complete.
+[2021.01.29-21.19.37:008][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane30)
+[2021.01.29-21.19.38:442][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane53)
+[2021.01.29-21.19.40:272][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane31)
+[2021.01.29-21.19.54:345][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.29-21.19.54:575][753]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap72AFDA834A55F94F8FDFDDA37EEDA7FD.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-21.19.55:413][753]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltData2B65903A4E1665E682A4BEB665322874.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.29-21.19.55:452][753]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-21.19.55:452][753]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.29-21.19.55:452][753]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.29-21.19.56:286][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.01.29-21.19.59:309][982]MapCheck: New page: Map Check
+[2021.01.29-21.19.59:325][982]Cmd: MAP REBUILD ALLVISIBLE
+[2021.01.29-21.19.59:326][982]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.01.29-21.19.59:329][982]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.01.29-21.19.59:353][982]LightingResults: New page: Lighting Build - Jan 29, 2021, 11:19:59 AM
+[2021.01.29-21.19.59:379][982]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.29-21.19.59:381][982]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.29-21.19.59:381][982]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.29-21.19.59:382][982]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.29-21.19.59:382][982]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9500
+[2021.01.29-21.20.12:995][982]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.29-21.20.12:995][982]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.29-21.20.12:995][982]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.29-21.20.12:995][982]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.29-21.20.12:995][982]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.29-21.20.13:141][982]LogEditorBuildUtils: Build time 0:13
+[2021.01.29-21.20.13:262][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.29-21.25.50:377][262]Job is a success!
+[2021.01.29-21.25.54:086][263]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 1.648s
+[2021.01.29-21.25.54:086][263]LogVolumetricLightmapImport:      Indirection Texture 128x144x16 = 1.1Mb
+[2021.01.29-21.25.54:087][263]LogVolumetricLightmapImport:      BrickData (all levels) 42.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError) (trimmed 49.3Mb due to 30.0Mb MaximumBrickMemoryMb)
+[2021.01.29-21.25.54:087][263]LogVolumetricLightmapImport:      Bricks at depth
+[2021.01.29-21.25.54:087][263]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2021.01.29-21.25.54:087][263]LogVolumetricLightmapImport:          1: 13.0% covering 24.5% of volume
+[2021.01.29-21.25.54:087][263]LogVolumetricLightmapImport:          2: 86.1% covering 2.5% of volume
+[2021.01.29-21.25.54:087][263]LogVolumetricLightmapImport:      Bricks in each level
+[2021.01.29-21.25.54:087][263]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 8678 bricks 	 100.0% (Persistent Level)
+[2021.01.29-21.25.57:348][263]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 512X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 512X512)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 512X512)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:349][263]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 512X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 512X512)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 512X512)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 256X256)
+[2021.01.29-21.25.57:350][263]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: SkyOcclusion1_27 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: SkyOcclusion1_28 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: SkyOcclusion1_29 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: SkyOcclusion1_30 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: SkyOcclusion1_31 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: SkyOcclusion1_32 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: SkyOcclusion1_33 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: SkyOcclusion1_34 (AutoDXT, 512X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 512X512)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 512X512)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: SkyOcclusion1_35 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: SkyOcclusion1_36 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:351][263]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_37 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_38 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_39 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_40 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_41 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_42 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_43 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_44 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_45 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_46 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_47 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_48 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_49 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_50 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 256X256)
+[2021.01.29-21.25.57:352][263]LogTexture: Display: Building textures: SkyOcclusion1_51 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_52 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_53 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_54 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_55 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_56 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_56 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_57 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_57 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_58 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_58 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_59 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_60 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_60 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_61 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_61 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_62 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_62 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_63 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_63 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_64 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 256X256)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: SkyOcclusion1_65 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:353][263]LogTexture: Display: Building textures: HQ_Lightmap1_65 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_1_65 (DXT1, 256X256)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion1_66 (AutoDXT, 256X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap1_66 (AutoDXT, 256X256)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_1_66 (DXT1, 256X256)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_67 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_67 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_68 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_68 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_69 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_69 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_70 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_70 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_71 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_71 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_72 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_72 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_72 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_73 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_73 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_74 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_74 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_74 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_75 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_75 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_75 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_76 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_76 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_76 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_77 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_77 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_77 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_78 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_78 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_78 (DXT1, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: SkyOcclusion0_79 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: HQ_Lightmap0_79 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:354][263]LogTexture: Display: Building textures: LQ_Lightmap_0_79 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_80 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_80 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_80 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_81 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_81 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_81 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_82 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_82 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_82 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_83 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_83 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_83 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_84 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_84 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_84 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_85 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_85 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_85 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_86 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_86 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_86 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_87 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_87 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_87 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_88 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_88 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_88 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_89 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_89 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_89 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_90 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_90 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_90 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_91 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_91 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_91 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_92 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: HQ_Lightmap0_92 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: LQ_Lightmap_0_92 (DXT1, 128X128)
+[2021.01.29-21.25.57:355][263]LogTexture: Display: Building textures: SkyOcclusion0_93 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: HQ_Lightmap0_93 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: LQ_Lightmap_0_93 (DXT1, 128X128)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: SkyOcclusion0_94 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: HQ_Lightmap0_94 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: LQ_Lightmap_0_94 (DXT1, 128X128)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: SkyOcclusion0_95 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: HQ_Lightmap0_95 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: LQ_Lightmap_0_95 (DXT1, 128X128)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: SkyOcclusion0_96 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: HQ_Lightmap0_96 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: LQ_Lightmap_0_96 (DXT1, 128X128)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: SkyOcclusion0_97 (AutoDXT, 128X64)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: HQ_Lightmap0_97 (AutoDXT, 128X128)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: LQ_Lightmap_0_97 (DXT1, 128X128)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: SkyOcclusion0_98 (AutoDXT, 64X32)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: HQ_Lightmap0_98 (AutoDXT, 64X64)
+[2021.01.29-21.25.57:356][263]LogTexture: Display: Building textures: LQ_Lightmap_0_98 (DXT1, 64X64)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 128X128)
+[2021.01.29-21.25.57:550][263]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 512X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X512)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 512X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 64X64)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 128X128)
+[2021.01.29-21.25.57:551][263]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 128X128)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 128X128)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 128X128)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 128X128)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 32X32)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 64X64)
+[2021.01.29-21.25.57:552][263]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 256X128)
+[2021.01.29-21.25.57:771][263]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2021.01.29-21.25.57:771][263]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2021.01.29-21.25.57:771][263]Lightmass on LAPTOP-HGLTF1KN: 5:42 min total, 805 ms importing, 1.09 sec setup, 29.4 sec photons, 5:11 min processing, 0 ms extra exporting [154/154 mappings]. Threads: 57:05 min total, 4:05 min processing.
+[2021.01.29-21.25.57:773][263]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 147 meshes in 99 LightmapResourceClusters (1.5 Meshes per cluster).
+[2021.01.29-21.25.57:830][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.01.29-21.25.57:860][263]LogStaticLightingSystem: Illumination: 5:58 min (2.91 sec encoding lightmaps, 375 ms encoding shadowmaps)
+[2021.01.29-21.25.57:860][263]LogStaticLightingSystem: Lightmap texture memory:  27.3 MB (24.6 MB streaming, 2.7 MB non-streaming), 196 textures
+[2021.01.29-21.25.57:860][263]LogStaticLightingSystem: Shadowmap texture memory: 13.5 MB (12.9 MB streaming, 0.7 MB non-streaming), 99 textures
+[2021.01.29-21.25.58:313][263]DumpUnbuiltLightIteractions
+[2021.01.29-21.25.58:313][263]Lights with unbuilt interactions: 0
+[2021.01.29-21.25.58:313][263]
+[2021.01.29-21.25.58:313][263]Primitives with unbuilt interactions: 0
+[2021.01.29-21.25.58:433][264]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.29-21.25.58:434][264]MapCheck: New page: FirstPersonExampleMap - Jan 29, 2021, 11:25:58 AM
+[2021.01.29-21.25.58:435][264]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.888ms to complete.
+[2021.01.29-21.26.06:876][770]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-21.26.06:890][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-21.26.06:890][770]PIE: New page: PIE session: FirstPersonExampleMap (Jan 29, 2021, 11:26:06 AM)
+[2021.01.29-21.26.06:921][770]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.29-21.26.06:956][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035377s)
+[2021.01.29-21.26.06:957][770]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.29-21.26.06:957][770]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000153ED28C600), frame # 119770
+[2021.01.29-21.26.06:957][770]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000153ACBC9D00), frame # 119770
+[2021.01.29-21.26.06:958][770]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2021.01.29-21.26.06:958][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036679s)
+[2021.01.29-21.26.06:967][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.29-21.26.06:972][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-21.26.06:972][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-21.26.06:972][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-21.26.06:972][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-21.26.06:972][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-21.26.06:972][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-21.26.06:972][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-21.26.06:972][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-21.26.06:973][770]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-21.26.06:973][770]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-21.26.06:978][770]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-21.26.06:978][770]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-21.26.06:978][770]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.29-21.26.06:978][770]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.29-21.26.06:978][770]LogAudioMixer: Display: 4: BackLeft
+[2021.01.29-21.26.06:978][770]LogAudioMixer: Display: 5: BackRight
+[2021.01.29-21.26.06:978][770]LogAudioMixer: Display: 6: SideLeft
+[2021.01.29-21.26.06:978][770]LogAudioMixer: Display: 7: SideRight
+[2021.01.29-21.26.07:032][770]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.01.29-21.26.07:032][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-21.26.07:032][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-21.26.07:032][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-21.26.07:033][770]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-21.26.07:047][770]LogInit: FAudioDevice initialized.
+[2021.01.29-21.26.07:057][770]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-21.26.07:061][770]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.01.29-16.26.07
+[2021.01.29-21.26.07:061][770]LogWorld: Bringing up level for play took: 0.003439
+[2021.01.29-21.26.07:062][770]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.01.29-21.26.07:064][770]PIE: Server logged in
+[2021.01.29-21.26.07:065][770]PIE: Play in editor total start time 0.177 seconds.
+[2021.01.29-21.26.12:063][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-21.26.12:063][ 67]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.29-21.26.12:063][ 67]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-21.26.12:064][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-21.26.12:074][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-21.26.12:076][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-21.26.12:120][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-21.26.12:121][ 67]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000153ACBC9D00), frame # 120067
+[2021.01.29-21.26.12:121][ 67]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000153ED28C600), frame # 120067
+[2021.01.29-21.26.12:121][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.01.29-21.26.12:144][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.01.29-21.26.14:109][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.29-21.26.14:344][183]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMapFBB2E0584E75A5FC4948D7BACF263C12.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-21.26.15:521][183]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltData00A37654475FB2F076921CB9FB64DD39.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.29-21.26.15:549][183]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-21.26.15:549][183]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.29-21.26.15:549][183]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.29-21.26.16:014][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.01.29-21.26.24:445][609]LogSlate: Window 'Save Level As' being destroyed
+[2021.01.29-21.26.26:985][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.01.29-21.26.27:886][759]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap91FC0D814CA83F4FF37BF18D7998E289.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-21.26.29:048][759]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltData1D00858342C20DF324DEAB99D72EE3DF.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.29-21.26.29:175][759]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-21.26.29:175][759]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.29-21.26.29:175][759]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.29-21.26.42:322][548]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.01.29-21.26.46:855][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.01.29-21.26.47:080][815]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMapCF62F48F4B6BA74E5C7ED28F2966B989.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-21.26.48:921][815]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltDataB3975F5541CDDD6375557786ACDA7CCE.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.29-21.26.48:948][815]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-21.26.48:948][815]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.29-21.26.48:948][815]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.29-21.27.00:875][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.29-21.27.01:102][520]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap684A2B21402450D449228ABDF2FA3D7D.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-21.27.02:203][520]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltDataC812AD224D9CDD661AB6909012AD6FEF.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.29-21.27.02:232][520]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-21.27.02:232][520]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.29-21.27.02:232][520]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.29-21.27.02:667][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.01.29-21.27.04:220][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.29-21.27.04:465][637]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap59BBFA14491D9111EBA985877AE68CED.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-21.27.06:698][637]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltData3BB5A8A9464AA5BABD0367AF2A0640C0.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.29-21.27.06:721][637]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-21.27.06:721][637]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.29-21.27.06:722][637]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
