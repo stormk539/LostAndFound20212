@@ -1135,3 +1135,68 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.16-23.34.45:743][500]Cmd: MAP CHECK NOTIFYRESULTS
 [2021.03.16-23.34.45:744][500]MapCheck: New page: BrettsMap - Mar 16, 2021, 3:34:45 PM
 [2021.03.16-23.34.46:640][500]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 897.268ms to complete.
+[2021.03.16-23.36.39:477][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.03.16-23.36.40:480][396]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_Auto25C7F6F3648D48B6BE8962889EC956971.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Autosaves/Game/FirstPersonBP/Maps/BrettsMap_Auto2.umap'
+[2021.03.16-23.36.40:491][396]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/BrettsMap' took 1.039
+[2021.03.16-23.36.40:491][396]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.039
+[2021.03.16-23.36.40:492][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/maze/jungleruins_Mat] ([1] browsable assets)...
+[2021.03.16-23.36.40:542][396]OBJ SavePackage:     Rendered thumbnail for [Material /Game/maze/jungleruins_Mat.jungleruins_Mat]
+[2021.03.16-23.36.40:543][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/maze/jungleruins_Mat]
+[2021.03.16-23.36.41:549][396]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/jungleruins_Mat_Auto2BC49D16B46B5BF52DFDAB6A3CFD53F2B.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Autosaves/Game/maze/jungleruins_Mat_Auto2.uasset'
+[2021.03.16-23.36.41:551][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/maze/MossyStonesB_S_Mat] ([1] browsable assets)...
+[2021.03.16-23.36.41:575][396]OBJ SavePackage:     Rendered thumbnail for [Material /Game/maze/MossyStonesB_S_Mat.MossyStonesB_S_Mat]
+[2021.03.16-23.36.41:575][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/maze/MossyStonesB_S_Mat]
+[2021.03.16-23.36.41:651][396]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/MossyStonesB_S_Mat_Auto25407543F46BE8B67B537C09641FF6E5F.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Autosaves/Game/maze/MossyStonesB_S_Mat_Auto2.uasset'
+[2021.03.16-23.36.41:654][396]LogFileHelpers: Auto-saving content packages took 1.162
+[2021.03.16-23.40.32:242][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.03.16-23.40.33:251][552]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap9145F5AA4983B2462E25DC9D5AD60E57.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.03.16-23.40.36:743][552]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData9616D2094F30836E40027D8489DDB3EC.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.03.16-23.40.36:776][552]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-23.40.36:777][552]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.03.16-23.40.36:777][552]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.03.16-23.41.16:205][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.16-23.41.18:096][122]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap4565766F4881822D84216BABE7722259.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.03.16-23.41.24:299][122]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData6063DE344C74CEBB82CE0D83B59E97CC.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.03.16-23.41.24:329][122]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-23.41.24:329][122]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.03.16-23.41.24:329][122]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.03.16-23.45.10:322][642]LogObjectTools: Deleting 1 worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.16-23.45.10:322][642]LogObjectTools: Currently 2 active worlds: /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap, /Engine/Transient.World_0
+[2021.03.16-23.45.10:394][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.03.16-23.45.29:965][642]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.16-23.45.30:952][642]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+	Asset Name: /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.16-23.45.41:730][642]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-23.45.41:732][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-23.45.42:438][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.03.16-23.45.42:465][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.03.16-23.45.42:490][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.03.16-23.45.42:511][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.16-23.45.45:139][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.03.16-23.45.47:545][845]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap0285D2784EEF0175B87777B3C677076E.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.03.16-23.45.52:765][845]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltDataB5FC1DB34CD488594D452986FE859B53.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.03.16-23.45.52:804][845]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-23.45.52:804][845]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.03.16-23.45.52:804][845]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.03.16-23.45.57:069][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.16-23.45.58:184][945]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap7BBD8B27484E99E32FB48AB60C27F357.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.03.16-23.46.01:580][945]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltDataAE6FFC944378FEC3E091D8B0D51AF1D6.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.03.16-23.46.01:618][945]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-23.46.01:618][945]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.03.16-23.46.01:618][945]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.03.16-23.46.05:884][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.03.16-23.46.08:616][292]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap48B35C9044924350F119E0A5BFFF7783.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.03.16-23.46.12:601][292]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData49D4C6FB4EEB534981D363B28744E494.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.03.16-23.46.12:641][292]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-23.46.12:641][292]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.03.16-23.46.12:641][292]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.03.16-23.46.14:625][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.03.16-23.46.20:607][474]LogSlate: Window 'Save Content' being destroyed
+[2021.03.16-23.46.20:667][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maze/jungleruins_Mat" FILE="../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/maze/jungleruins_Mat.uasset" SILENT=true
+[2021.03.16-23.46.20:695][474]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/jungleruins_MatDF1E256C4D1EB1B394216791CA719232.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/maze/jungleruins_Mat.uasset'
+[2021.03.16-23.46.20:707][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maze/MossyStonesB_S_Mat" FILE="../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/maze/MossyStonesB_S_Mat.uasset" SILENT=true
+[2021.03.16-23.46.20:735][474]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/MossyStonesB_S_MatB90313F94B4E0C1C5D2583A476CC4571.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/maze/MossyStonesB_S_Mat.uasset'
+[2021.03.16-23.46.20:774][474]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.16-23.46.20:775][474]LogContentValidation: Display: Validating Material /Game/maze/jungleruins_Mat.jungleruins_Mat
+[2021.03.16-23.46.20:775][474]LogContentValidation: Display: Validating Material /Game/maze/MossyStonesB_S_Mat.MossyStonesB_S_Mat
