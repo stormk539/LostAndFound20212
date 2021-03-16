@@ -1576,3 +1576,187 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.16-23.29.16:001][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (innerwall355)
 [2021.03.16-23.29.17:008][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (innerwall356)
 [2021.03.16-23.29.17:587][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (innerwall354)
+[2021.03.16-23.29.47:095][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2021.03.16-23.29.49:208][822]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube42)
+[2021.03.16-23.29.49:984][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube47)
+[2021.03.16-23.29.57:482][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2021.03.16-23.29.58:197][343]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube68)
+[2021.03.16-23.29.59:047][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane52)
+[2021.03.16-23.29.59:742][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube92)
+[2021.03.16-23.30.03:885][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube80)
+[2021.03.16-23.30.04:540][711]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube83)
+[2021.03.16-23.30.06:149][798]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.16-23.30.22:220][752]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.03.16-23.30.23:117][805]Cmd: DELETE
+[2021.03.16-23.30.23:117][805]Cmd: ACTOR DELETE
+[2021.03.16-23.30.23:133][805]LogEditorActor: Deleted Actor: Landscape
+[2021.03.16-23.30.23:170][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.16-23.30.23:172][805]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2021.03.16-23.30.30:975][272]Cmd: TRANSACTION UNDO
+[2021.03.16-23.30.30:975][272]LogEditorTransaction: Undo Delete Actors
+[2021.03.16-23.30.31:140][272]LogSlate: Took 0.005420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.16-23.30.39:370][746]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2021.03.16-23.30.39:377][746]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.03.16-23.30.39:386][746]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.03.16-23.30.39:386][746]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.03.16-23.30.39:386][746]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.03.16-23.30.39:386][746]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.03.16-23.30.39:386][746]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.03.16-23.30.39:386][746]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.03.16-23.30.39:386][746]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.03.16-23.30.39:397][746]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.03.16-23.30.39:407][746]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2021.03.16-23.30.39:417][746]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2021.03.16-23.30.39:437][746]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 90
+[2021.03.16-23.30.39:437][746]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 82
+[2021.03.16-23.30.39:437][746]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 74
+[2021.03.16-23.30.39:437][746]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 66
+[2021.03.16-23.30.39:437][746]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 58
+[2021.03.16-23.30.39:437][746]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 50
+[2021.03.16-23.30.39:437][746]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2021.03.16-23.30.39:464][746]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.16-23.30.39:475][746]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.16-23.30.39:488][746]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.16-23.30.39:501][746]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.16-23.30.39:517][746]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2021.03.16-23.30.39:531][746]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.16-23.30.39:545][746]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.03.16-23.30.39:562][746]LogMaterial: Display: Missing cached shader map for material LandscapeGround, compiling. 
+[2021.03.16-23.30.39:571][746]LogMaterial: Display: Missing cached shader map for material LandscapeGround, compiling. 
+[2021.03.16-23.30.39:578][746]LogMaterial: Display: Missing cached shader map for material LandscapeGround, compiling. 
+[2021.03.16-23.30.39:585][746]LogMaterial: Display: Missing cached shader map for material LandscapeGround, compiling. 
+[2021.03.16-23.30.39:593][746]LogMaterial: Display: Missing cached shader map for material LandscapeGround, compiling. 
+[2021.03.16-23.30.39:600][746]LogMaterial: Display: Missing cached shader map for material LandscapeGround, compiling. 
+[2021.03.16-23.30.39:612][746]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.03.16-23.30.39:684][746]LogSlate: Took 0.010570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.16-23.30.39:733][747]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 210
+[2021.03.16-23.30.39:788][747]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 200
+[2021.03.16-23.30.39:965][755]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 190
+[2021.03.16-23.30.40:049][757]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 180
+[2021.03.16-23.30.40:101][757]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 170
+[2021.03.16-23.30.40:101][757]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 160
+[2021.03.16-23.30.43:395][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 150
+[2021.03.16-23.30.44:030][924]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 140
+[2021.03.16-23.30.44:053][925]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 130
+[2021.03.16-23.30.44:075][926]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 120
+[2021.03.16-23.30.44:106][927]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 110
+[2021.03.16-23.30.44:144][929]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 100
+[2021.03.16-23.30.44:691][953]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 91
+[2021.03.16-23.30.44:822][959]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 83
+[2021.03.16-23.30.45:023][967]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 76
+[2021.03.16-23.30.45:125][971]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 69
+[2021.03.16-23.30.45:742][998]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 63
+[2021.03.16-23.30.45:768][999]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 57
+[2021.03.16-23.30.48:409][117]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 52
+[2021.03.16-23.30.48:625][127]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 47
+[2021.03.16-23.30.48:784][134]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 43
+[2021.03.16-23.30.48:812][135]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 39
+[2021.03.16-23.30.48:911][139]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 35
+[2021.03.16-23.30.48:997][143]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2021.03.16-23.30.49:090][147]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 29
+[2021.03.16-23.30.49:225][152]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2021.03.16-23.30.49:311][155]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 23
+[2021.03.16-23.30.49:311][155]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 21
+[2021.03.16-23.30.49:361][157]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 19
+[2021.03.16-23.30.49:860][177]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2021.03.16-23.30.50:441][202]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 15
+[2021.03.16-23.30.50:659][208]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2021.03.16-23.30.50:987][217]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2021.03.16-23.30.51:118][223]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2021.03.16-23.30.51:274][229]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2021.03.16-23.30.51:508][238]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2021.03.16-23.30.51:687][246]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2021.03.16-23.30.51:747][248]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.03.16-23.30.51:774][249]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2021.03.16-23.30.51:969][257]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.03.16-23.30.51:988][257]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.03.16-23.30.52:037][258]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2021.03.16-23.30.52:172][263]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.03.16-23.30.58:315][611]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 128X128)
+[2021.03.16-23.30.58:319][611]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 128X128)
+[2021.03.16-23.30.58:326][611]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 128X128)
+[2021.03.16-23.30.58:329][611]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 128X128)
+[2021.03.16-23.30.58:330][611]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2021.03.16-23.30.58:334][611]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2021.03.16-23.30.58:335][611]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2021.03.16-23.30.58:338][611]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2021.03.16-23.30.58:339][611]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2021.03.16-23.30.58:343][611]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2021.03.16-23.30.58:344][611]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2021.03.16-23.30.58:348][611]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2021.03.16-23.30.58:349][611]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 128X128)
+[2021.03.16-23.30.58:352][611]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 128X128)
+[2021.03.16-23.30.58:353][611]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2021.03.16-23.30.58:358][611]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2021.03.16-23.30.58:359][611]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2021.03.16-23.30.58:363][611]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2021.03.16-23.30.58:364][611]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2021.03.16-23.30.58:368][611]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2021.03.16-23.30.58:369][611]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 128X128)
+[2021.03.16-23.30.58:372][611]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 128X128)
+[2021.03.16-23.30.58:373][611]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 128X128)
+[2021.03.16-23.30.58:377][611]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 128X128)
+[2021.03.16-23.30.58:378][611]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 128X128)
+[2021.03.16-23.30.58:389][611]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 128X128)
+[2021.03.16-23.30.58:390][611]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 128X128)
+[2021.03.16-23.30.58:400][611]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 128X128)
+[2021.03.16-23.30.58:401][611]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 128X128)
+[2021.03.16-23.30.58:405][611]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 128X128)
+[2021.03.16-23.30.58:406][611]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 128X128)
+[2021.03.16-23.30.58:409][611]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 128X128)
+[2021.03.16-23.31.00:698][747]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 128X128)
+[2021.03.16-23.31.00:702][747]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 128X128)
+[2021.03.16-23.31.04:214][958]Cmd: TRANSACTION UNDO
+[2021.03.16-23.31.04:214][958]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2021.03.16-23.31.04:236][958]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 128X128)
+[2021.03.16-23.31.04:237][958]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2021.03.16-23.31.04:239][958]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2021.03.16-23.31.04:240][958]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2021.03.16-23.31.04:244][958]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2021.03.16-23.31.04:246][958]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2021.03.16-23.31.04:247][958]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2021.03.16-23.31.04:673][969]Cmd: TRANSACTION UNDO
+[2021.03.16-23.31.04:673][969]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2021.03.16-23.31.04:764][969]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.03.16-23.31.06:541][ 69]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.03.16-23.31.33:238][656]Cmd: TRANSACTION UNDO
+[2021.03.16-23.31.33:238][656]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.16-23.31.33:250][656]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.03.16-23.31.33:522][662]Cmd: TRANSACTION UNDO
+[2021.03.16-23.31.33:522][662]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.16-23.31.33:535][662]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.03.16-23.31.33:768][668]Cmd: TRANSACTION UNDO
+[2021.03.16-23.31.33:768][668]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.16-23.31.33:981][678]Cmd: TRANSACTION UNDO
+[2021.03.16-23.31.33:981][678]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.03.16-23.31.33:991][678]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.03.16-23.31.40:240][ 46]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.03.16-23.32.01:970][338]Cmd: TRANSACTION UNDO
+[2021.03.16-23.32.01:970][338]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.16-23.32.01:987][338]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.03.16-23.34.44:809][972]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.03.16-23.35.04:347][118]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.03.16-23.35.07:519][307]LogEditorViewport: Clicking Background
+[2021.03.16-23.35.16:648][840]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.03.16-23.36.12:700][151]Cmd: TRANSACTION UNDO
+[2021.03.16-23.36.12:700][151]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.03.16-23.36.12:717][151]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.03.16-23.36.13:485][179]Cmd: TRANSACTION UNDO
+[2021.03.16-23.36.13:485][179]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.16-23.36.13:501][179]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.03.16-23.36.14:046][210]Cmd: TRANSACTION UNDO
+[2021.03.16-23.36.14:046][210]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.03.16-23.37.20:134][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (innerwall269)
+[2021.03.16-23.37.50:273][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.03.16-23.37.50:331][923]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.03.16-23.37.50:334][923]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 128X128)
+[2021.03.16-23.37.50:335][923]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 128X128)
+[2021.03.16-23.37.50:336][923]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 128X128)
+[2021.03.16-23.37.50:336][923]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 128X128)
+[2021.03.16-23.37.50:337][923]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 128X128)
+[2021.03.16-23.37.50:338][923]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.03.16-23.37.50:631][923]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_Auto1C8095BD04E0FFF88B498B3818352B1BE.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.03.16-23.37.50:637][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.379
+[2021.03.16-23.37.50:637][923]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.379
+[2021.03.16-23.47.49:107][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.16-23.47.49:110][888]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
