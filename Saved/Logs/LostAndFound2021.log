@@ -1595,3 +1595,363 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.30-23.13.00:939][150]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.03.30-23.13.00:950][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
 [2021.03.30-23.13.00:952][150]LogEditorActor: Deleted 290 Actors (0.084 secs)
+[2021.03.30-23.16.27:052][951]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.03.30-23.16.27:069][951]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.30-23.16.35:822][440]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.03.30-23.17.11:430][393]Cmd: TRANSACTION UNDO
+[2021.03.30-23.17.11:430][393]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.03.30-23.17.11:446][393]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X128)
+[2021.03.30-23.17.11:448][393]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 128X128)
+[2021.03.30-23.17.11:452][393]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.30-23.17.11:773][402]Cmd: TRANSACTION UNDO
+[2021.03.30-23.17.11:773][402]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.03.30-23.17.11:834][402]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 128X128)
+[2021.03.30-23.17.11:838][402]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 128X128)
+[2021.03.30-23.17.11:842][402]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 128X128)
+[2021.03.30-23.17.11:847][402]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 128X128)
+[2021.03.30-23.17.11:852][402]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.30-23.17.13:462][491]Cmd: TRANSACTION UNDO
+[2021.03.30-23.17.13:462][491]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.03.30-23.17.13:478][491]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 128X128)
+[2021.03.30-23.17.13:480][491]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 128X128)
+[2021.03.30-23.17.13:481][491]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 128X128)
+[2021.03.30-23.17.13:485][491]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.30-23.17.13:638][499]Cmd: TRANSACTION UNDO
+[2021.03.30-23.17.13:638][499]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.03.30-23.17.13:655][499]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 128X128)
+[2021.03.30-23.17.13:656][499]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.30-23.17.14:205][529]Cmd: TRANSACTION UNDO
+[2021.03.30-23.17.14:205][529]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.03.30-23.17.14:465][543]Cmd: TRANSACTION UNDO
+[2021.03.30-23.17.14:465][543]LogEditorTransaction: Undo Delete Actors
+[2021.03.30-23.17.17:047][631]Cmd: DELETE
+[2021.03.30-23.17.17:047][631]Cmd: ACTOR DELETE
+[2021.03.30-23.17.17:075][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:083][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:085][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:087][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:090][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:091][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:093][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:095][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:096][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:098][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:100][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:102][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:104][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:106][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:108][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:110][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:112][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:114][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:116][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:119][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:121][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:123][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:126][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:128][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:131][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:135][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:137][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:140][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:142][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:145][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:147][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:150][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:153][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:156][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:158][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:161][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:163][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:166][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:169][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:172][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:174][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:177][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:180][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:184][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:187][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:190][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:195][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:200][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:205][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:209][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:215][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:221][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:225][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:229][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:232][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:236][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:239][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:243][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:246][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:251][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:254][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:258][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:263][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:266][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:270][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:275][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:279][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:284][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:287][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:294][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:301][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:308][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:313][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:317][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:321][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:325][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:329][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:334][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:338][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:343][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:347][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:352][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:356][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:361][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:369][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:374][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:379][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:385][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:390][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:394][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:401][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:408][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:414][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:418][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:423][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:428][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:433][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:438][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:444][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:449][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:454][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:459][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:464][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:469][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:475][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:480][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:486][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:491][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:497][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:503][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:509][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:514][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:520][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:526][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:534][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:544][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:551][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:558][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:564][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:569][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:576][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:583][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:589][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:596][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:603][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:609][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:616][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:622][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:629][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:636][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:642][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:649][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:656][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:663][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:670][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:677][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:683][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:690][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:697][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:704][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:712][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:718][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:725][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:735][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:743][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:749][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:757][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:764][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:772][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:779][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:786][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:793][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:806][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:830][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:857][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:867][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:879][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:889][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:898][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:910][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:919][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:927][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:936][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:944][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:954][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:963][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:972][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:981][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:989][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.17:998][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:007][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:016][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:024][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:033][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:042][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:051][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:059][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:070][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:083][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:091][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:100][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:109][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:118][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:126][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:135][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:144][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:153][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:161][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:170][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:179][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:189][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:198][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:208][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:221][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:234][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:243][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:254][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:263][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:273][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:283][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:293][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:303][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:313][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:325][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:335][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:345][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:354][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:365][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:375][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:384][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:394][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:405][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:414][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:424][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:435][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:445][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:454][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:467][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:478][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:488][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:499][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:509][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:522][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:534][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:547][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:559][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:572][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:583][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:593][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:604][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:615][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:626][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:637][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:648][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:659][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:674][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:685][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:696][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:707][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:718][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:730][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:741][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:752][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:763][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:774][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:786][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:799][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:835][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:858][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:870][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:881][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:896][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:911][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:923][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:936][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:947][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:959][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:972][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.18:985][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:001][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:016][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:034][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:048][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:060][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:073][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:085][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:097][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:109][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:121][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:134][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:146][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:158][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:171][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:183][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:195][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:207][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:221][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:238][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:252][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:265][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:278][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:292][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:308][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:321][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:334][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:348][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:362][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:378][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:391][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:407][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.30-23.17.19:435][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.03.30-23.17.19:436][631]LogEditorActor: Deleted 290 Actors (2.390 secs)
+[2021.03.30-23.17.42:232][896]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 128X128)
+[2021.03.30-23.17.42:235][896]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 128X128)
+[2021.03.30-23.17.42:501][898]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2021.03.30-23.17.42:505][898]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2021.03.30-23.17.43:994][967]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2021.03.30-23.17.44:126][968]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2021.03.30-23.17.44:664][992]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 128X128)
+[2021.03.30-23.17.44:666][992]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2021.03.30-23.17.56:136][627]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2021.03.30-23.17.56:378][632]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2021.03.30-23.17.57:725][698]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 128X128)
+[2021.03.30-23.17.58:944][759]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 128X128)
+[2021.03.30-23.17.59:534][785]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 128X128)
+[2021.03.30-23.19.31:453][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.30-23.19.31:501][857]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.03.30-23.19.31:506][857]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.03.30-23.19.31:510][857]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2021.03.30-23.19.31:510][857]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 128X128)
+[2021.03.30-23.19.31:511][857]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2021.03.30-23.19.31:512][857]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 128X128)
+[2021.03.30-23.19.31:513][857]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2021.03.30-23.19.31:513][857]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 128X128)
+[2021.03.30-23.19.31:514][857]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2021.03.30-23.19.31:515][857]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2021.03.30-23.19.31:516][857]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.03.30-23.19.31:521][857]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 128X128)
+[2021.03.30-23.19.31:521][857]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2021.03.30-23.19.31:522][857]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2021.03.30-23.19.31:523][857]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.03.30-23.19.31:527][857]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 128X128)
+[2021.03.30-23.19.31:528][857]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 128X128)
+[2021.03.30-23.19.31:757][857]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMapFE94AAD94C587A62380D42866B801FF2.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.30-23.19.33:216][857]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltDataE033B2E1478138F3FC0414A711FD28E0.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.30-23.19.33:254][857]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.30-23.19.33:254][857]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.30-23.19.33:254][857]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.03.30-23.19.36:873][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
