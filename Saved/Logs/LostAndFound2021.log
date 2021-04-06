@@ -967,3 +967,138 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.06-23.24.31:338][ 76]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.06-23.24.31:339][ 76]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2021.04.06-23.24.31:339][ 76]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.04.06-23.28.12:813][426]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.04.06-23.29.11:044][850]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.04.06-23.29.19:071][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane43)
+[2021.04.06-23.29.23:279][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane43)
+[2021.04.06-23.30.23:894][ 59]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.04.06-23.31.22:791][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.04.06-23.31.52:715][ 76]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.04.06-23.32.29:217][857]Cmd: TRANSACTION UNDO
+[2021.04.06-23.32.29:217][857]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.04.06-23.32.29:394][857]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 128X128)
+[2021.04.06-23.32.29:395][857]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2021.04.06-23.32.29:400][857]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2021.04.06-23.32.29:409][857]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 128X128)
+[2021.04.06-23.32.29:411][857]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 128X128)
+[2021.04.06-23.32.29:412][857]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2021.04.06-23.32.29:417][857]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 128X128)
+[2021.04.06-23.32.29:418][857]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 128X128)
+[2021.04.06-23.32.29:421][857]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2021.04.06-23.32.29:423][857]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.04.06-23.32.29:705][863]Cmd: TRANSACTION UNDO
+[2021.04.06-23.32.29:705][863]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.04.06-23.32.29:743][863]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 128X128)
+[2021.04.06-23.32.29:744][863]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2021.04.06-23.32.29:745][863]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2021.04.06-23.32.29:747][863]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.04.06-23.34.29:666][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.04.06-23.34.29:704][679]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 128X128)
+[2021.04.06-23.34.29:705][679]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.04.06-23.34.29:708][679]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 128X128)
+[2021.04.06-23.34.29:709][679]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 128X128)
+[2021.04.06-23.34.29:710][679]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 128X128)
+[2021.04.06-23.34.29:712][679]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2021.04.06-23.34.29:713][679]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2021.04.06-23.34.29:713][679]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 128X128)
+[2021.04.06-23.34.29:715][679]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.04.06-23.34.29:720][679]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2021.04.06-23.34.29:722][679]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2021.04.06-23.34.29:724][679]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.04.06-23.34.29:728][679]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2021.04.06-23.34.29:730][679]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2021.04.06-23.34.29:730][679]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 128X128)
+[2021.04.06-23.34.29:731][679]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 128X128)
+[2021.04.06-23.34.29:733][679]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 128X128)
+[2021.04.06-23.34.29:736][679]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 128X128)
+[2021.04.06-23.34.29:737][679]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 128X128)
+[2021.04.06-23.34.29:737][679]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2021.04.06-23.34.29:738][679]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2021.04.06-23.34.29:739][679]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 128X128)
+[2021.04.06-23.34.29:739][679]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 128X128)
+[2021.04.06-23.34.29:741][679]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 128X128)
+[2021.04.06-23.34.29:745][679]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 128X128)
+[2021.04.06-23.34.29:746][679]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 128X128)
+[2021.04.06-23.34.29:747][679]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 128X128)
+[2021.04.06-23.34.29:748][679]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 128X128)
+[2021.04.06-23.34.29:750][679]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2021.04.06-23.34.29:751][679]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 128X128)
+[2021.04.06-23.34.29:752][679]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 128X128)
+[2021.04.06-23.34.29:755][679]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 128X128)
+[2021.04.06-23.34.29:755][679]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 128X128)
+[2021.04.06-23.34.29:757][679]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 128X128)
+[2021.04.06-23.34.29:995][679]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_Auto17AB98C7E42301708ACD9B787ED2A56CD.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.04.06-23.34.29:997][679]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.345
+[2021.04.06-23.34.29:997][679]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.345
+[2021.04.06-23.38.00:414][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane23)
+[2021.04.06-23.38.02:150][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane47)
+[2021.04.06-23.38.04:592][481]Cmd: EDIT COPY
+[2021.04.06-23.38.07:252][639]Cmd: EDIT PASTE
+[2021.04.06-23.38.11:790][906]Cmd: EDIT PASTE
+[2021.04.06-23.38.22:675][548]Cmd: EDIT COPY
+[2021.04.06-23.38.23:244][581]Cmd: EDIT PASTE
+[2021.04.06-23.38.33:533][187]Cmd: EDIT COPY
+[2021.04.06-23.38.34:530][245]Cmd: EDIT PASTE
+[2021.04.06-23.38.46:992][940]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.04.06-23.39.36:343][810]Cmd: TRANSACTION UNDO
+[2021.04.06-23.39.36:343][810]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.04.06-23.39.36:938][810]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 128X128)
+[2021.04.06-23.39.36:940][810]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.04.06-23.40.03:655][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane72)
+[2021.04.06-23.40.09:641][734]Cmd: EDIT COPY
+[2021.04.06-23.40.10:040][758]Cmd: EDIT PASTE
+[2021.04.06-23.40.50:388][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.04.06-23.40.51:295][145]Cmd: DELETE
+[2021.04.06-23.40.51:295][145]Cmd: ACTOR DELETE
+[2021.04.06-23.40.51:310][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.06-23.40.51:324][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.06-23.40.51:326][145]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2021.04.06-23.40.52:006][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.04.06-23.40.52:069][187]Cmd: DELETE
+[2021.04.06-23.40.52:070][187]Cmd: ACTOR DELETE
+[2021.04.06-23.40.52:076][187]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.06-23.40.52:088][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.06-23.40.52:090][187]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.04.06-23.40.52:950][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2021.04.06-23.40.53:026][240]Cmd: DELETE
+[2021.04.06-23.40.53:026][240]Cmd: ACTOR DELETE
+[2021.04.06-23.40.53:034][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.06-23.40.53:048][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.04.06-23.40.53:050][240]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.04.06-23.40.53:857][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2021.04.06-23.40.53:933][290]Cmd: DELETE
+[2021.04.06-23.40.53:933][290]Cmd: ACTOR DELETE
+[2021.04.06-23.40.53:940][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.06-23.40.53:952][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.04.06-23.40.53:953][290]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.04.06-23.40.54:387][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
+[2021.04.06-23.40.54:497][320]Cmd: DELETE
+[2021.04.06-23.40.54:497][320]Cmd: ACTOR DELETE
+[2021.04.06-23.40.54:504][320]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.06-23.40.54:518][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.04.06-23.40.54:520][320]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.04.06-23.41.19:314][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.04.06-23.41.19:349][790]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2021.04.06-23.41.19:352][790]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.04.06-23.41.19:356][790]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2021.04.06-23.41.19:357][790]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2021.04.06-23.41.19:358][790]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 128X128)
+[2021.04.06-23.41.19:358][790]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 128X128)
+[2021.04.06-23.41.19:359][790]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 128X128)
+[2021.04.06-23.41.19:360][790]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 128X128)
+[2021.04.06-23.41.19:361][790]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 128X128)
+[2021.04.06-23.41.19:361][790]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 128X128)
+[2021.04.06-23.41.19:363][790]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 128X128)
+[2021.04.06-23.41.19:364][790]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 128X128)
+[2021.04.06-23.41.19:365][790]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 128X128)
+[2021.04.06-23.41.19:609][790]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap129F31F540BBA7A7670982A8E9147599.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.06-23.41.20:601][790]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltDataB3C76505457B39F29D9A328B43C10013.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.04.06-23.41.20:645][790]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.06-23.41.20:645][790]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.06-23.41.20:645][790]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.04.06-23.43.46:516][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.06-23.43.46:772][506]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap91A6FB0B43FD21B065A86BB2D0BB6742.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.06-23.43.47:699][506]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltData0C65AA5D41B69FC71CDD60B557AB6B8F.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.04.06-23.43.47:735][506]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.06-23.43.47:735][506]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.06-23.43.47:735][506]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
