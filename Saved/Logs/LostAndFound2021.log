@@ -1102,3 +1102,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.06-23.43.47:735][506]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.06-23.43.47:735][506]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2021.04.06-23.43.47:735][506]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.04.06-23.46.35:672][946]Cmd: TRANSACTION UNDO
+[2021.04.06-23.46.35:672][946]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.04.06-23.46.37:547][ 32]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.04.06-23.46.45:533][478]Cmd: TRANSACTION UNDO
+[2021.04.06-23.46.45:533][478]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.04.06-23.48.35:416][313]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.04.06-23.53.46:628][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.06-23.53.46:666][256]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.04.06-23.53.46:670][256]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 128X128)
+[2021.04.06-23.53.46:670][256]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 128X128)
+[2021.04.06-23.53.46:672][256]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.04.06-23.53.46:675][256]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 128X128)
+[2021.04.06-23.53.46:676][256]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 128X128)
+[2021.04.06-23.53.46:677][256]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2021.04.06-23.53.46:677][256]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 128X128)
+[2021.04.06-23.53.46:678][256]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2021.04.06-23.53.46:680][256]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 128X128)
+[2021.04.06-23.53.46:680][256]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 128X128)
+[2021.04.06-23.53.46:681][256]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 128X128)
+[2021.04.06-23.53.46:682][256]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2021.04.06-23.53.46:683][256]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 128X128)
+[2021.04.06-23.53.46:684][256]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 128X128)
+[2021.04.06-23.53.46:685][256]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 128X128)
+[2021.04.06-23.53.46:688][256]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.04.06-23.53.46:696][256]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 128X128)
+[2021.04.06-23.53.46:697][256]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 128X128)
+[2021.04.06-23.53.46:944][256]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_Auto2C98572CD46E8B490958FEC90C2E50473.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2021.04.06-23.53.46:946][256]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.329
+[2021.04.06-23.53.46:946][256]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.329
+[2021.04.07-00.03.15:004][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.04.07-00.03.15:043][207]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.04.07-00.03.15:047][207]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2021.04.07-00.03.15:288][207]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap28A8EACE4CE30146D403B9A115853DF5.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.07-00.03.16:299][207]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltDataDC9E494E480F16F42A2BBA95F1F16B00.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.04.07-00.03.16:342][207]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.07-00.03.16:342][207]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.07-00.03.16:342][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
