@@ -872,3 +872,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.13-17.08.33:750][949]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/Paladin_Character7F5879FB40266D784E84ACB3D9BADC20.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/EnemyBlueprints/Paladin_Character.uasset'
 [2021.04.13-17.08.33:763][949]AssetCheck: New page: Asset Save: Paladin_Character
 [2021.04.13-17.08.33:763][949]LogContentValidation: Display: Validating Blueprint /Game/EnemyBlueprints/Paladin_Character.Paladin_Character
+[2021.04.13-17.15.27:457][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyBlueprints/Paladin_Character" FILE="../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/EnemyBlueprints/Paladin_Character.uasset" SILENT=true
+[2021.04.13-17.15.27:467][350]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/Paladin_Character0DDF9EC441078CC08D7A7E8183414212.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/EnemyBlueprints/Paladin_Character.uasset'
+[2021.04.13-17.15.27:483][350]AssetCheck: New page: Asset Save: Paladin_Character
+[2021.04.13-17.15.27:483][350]LogContentValidation: Display: Validating Blueprint /Game/EnemyBlueprints/Paladin_Character.Paladin_Character
+[2021.04.13-17.16.04:509][270]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-17.16.04:522][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-17.16.04:525][270]PIE: New page: PIE session: FirstPersonExampleMap (Apr 13, 2021, 9:16:04 AM)
+[2021.04.13-17.16.04:527][270]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.13-17.16.04:528][270]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.13-17.16.04:528][270]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.13-17.16.04:999][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.470661s)
+[2021.04.13-17.16.05:000][270]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.13-17.16.05:000][270]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000164DD831A00), frame # 177270
+[2021.04.13-17.16.05:000][270]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000164DD80FD80), frame # 177270
+[2021.04.13-17.16.05:001][270]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2021.04.13-17.16.05:001][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.472453s)
+[2021.04.13-17.16.05:023][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.04.13-17.16.05:024][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-17.16.05:024][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-17.16.05:024][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-17.16.05:024][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-17.16.05:024][270]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-17.16.05:024][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-17.16.05:024][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-17.16.05:024][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-17.16.05:024][270]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-17.16.05:024][270]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-17.16.05:027][270]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-17.16.05:027][270]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-17.16.05:039][270]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2021.04.13-17.16.05:039][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-17.16.05:039][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-17.16.05:039][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-17.16.05:040][270]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-17.16.05:050][270]LogInit: FAudioDevice initialized.
+[2021.04.13-17.16.05:057][270]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.13-17.16.05:083][270]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.04.13-13.16.05
+[2021.04.13-17.16.05:092][270]LogWorld: Bringing up level for play took: 0.032621
+[2021.04.13-17.16.05:092][270]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.04.13-17.16.05:106][270]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.13-17.16.05:108][270]PIE: Server logged in
+[2021.04.13-17.16.05:109][270]PIE: Play in editor total start time 0.589 seconds.
+[2021.04.13-17.16.05:427][271]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'BP_EnemyCharger5_20', movement 'Walking'
+[2021.04.13-17.16.30:529][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-17.16.30:530][765]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.13-17.16.30:531][765]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-17.16.30:535][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-17.16.30:546][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-17.16.30:550][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-17.16.30:592][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-17.16.30:615][765]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000164DD831A00), frame # 178765
+[2021.04.13-17.16.30:615][765]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000164DD80FD80), frame # 178765
+[2021.04.13-17.16.30:618][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.04.13-17.16.30:648][766]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.04.13-17.16.32:560][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.04.13-17.16.32:876][874]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap2AE9BCF940942DA57C05B9ACCACCAF30.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.13-17.16.34:215][874]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/FirstPersonExampleMap_BuiltData9B2CE483498E82D5774F16B88A7B4F58.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.04.13-17.16.34:247][874]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-17.16.34:247][874]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.04.13-17.16.34:247][874]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
