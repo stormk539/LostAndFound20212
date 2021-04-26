@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 ﻿Log file open, 04/13/21 12:02:32
 LogInit: Display: Running engine for game: LostAndFound2021
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.179112
+=======
+﻿Log file open, 04/13/21 18:59:24
+LogInit: Display: Running engine for game: LostAndFound2021
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.478861
+>>>>>>> origin/Brett_Branch_3
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -139,13 +147,22 @@ LogInit: Build: ++UE4+Release-4.25-CL-14469661
 LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
 LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
 LogInit: Net CL: 13144385
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-10980HK CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics
+=======
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+>>>>>>> origin/Brett_Branch_3
 LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.25
+<<<<<<< HEAD
 LogInit: Command Line: 
 LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.25/Engine/Binaries/Win64/
+=======
+LogInit: Command Line:  -EpicPortal -epicusername=Siddhartha_Om -epicuserid=9d822a967ec2477485d11f918113fbb2 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+>>>>>>> origin/Brett_Branch_3
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 26
@@ -176,7 +193,11 @@ LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 3
 LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
 LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+<<<<<<< HEAD
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/austi/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Engine.ini]
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Engine.ini]
+>>>>>>> origin/Brett_Branch_3
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -194,6 +215,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2021.04.13-16.02.32:847][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.04.13-16.02.32:847][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.04.13-16.02.32:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/austi/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Engine.ini]
@@ -872,3 +894,1022 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.13-17.08.33:750][949]LogSavePackage: Moving '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Saved/Paladin_Character7F5879FB40266D784E84ACB3D9BADC20.tmp' to '../../../../../../Users/austi/Documents/GitHub/LostAndFound20212/Content/EnemyBlueprints/Paladin_Character.uasset'
 [2021.04.13-17.08.33:763][949]AssetCheck: New page: Asset Save: Paladin_Character
 [2021.04.13-17.08.33:763][949]LogContentValidation: Display: Validating Blueprint /Game/EnemyBlueprints/Paladin_Character.Paladin_Character
+=======
+[2021.04.13-22.59.25:317][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.13-22.59.25:317][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.13-22.59.25:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Engine.ini]
+[2021.04.13-22.59.25:317][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.13-22.59.25:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Engine.ini]
+[2021.04.13-22.59.25:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Engine.ini]
+[2021.04.13-22.59.25:317][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Engine.ini]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.13-22.59.25:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Engine.ini]
+[2021.04.13-22.59.25:318][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Engine.ini]
+[2021.04.13-22.59.25:323][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.13-22.59.25:323][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.13-22.59.25:324][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:324][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.13-22.59.25:325][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.13-22.59.25:326][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.13-22.59.25:326][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.13-22.59.25:326][  0]LogHAL: Display: Platform has ~ 32 GB [34202075136 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.13-22.59.25:326][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.13-22.59.25:326][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.13-22.59.25:326][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.13-22.59.25:327][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Scalability.ini]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.13-22.59.25:328][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.13-22.59.25:330][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.13-22.59.25:330][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.13-22.59.25:330][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.13-22.59.25:330][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Config/Windows/Engine.ini]
+[2021.04.13-22.59.25:331][  0]LogInit: Computer: LAPTOP-HGLTF1KN
+[2021.04.13-22.59.25:331][  0]LogInit: User: micks
+[2021.04.13-22.59.25:331][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.13-22.59.25:331][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.13-22.59.25:331][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.04.13-22.59.25:332][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.13-22.59.25:332][  0]LogMemory: Process Physical Memory: 116.21 MB used, 116.21 MB peak
+[2021.04.13-22.59.25:332][  0]LogMemory: Process Virtual Memory: 97.11 MB used, 97.11 MB peak
+[2021.04.13-22.59.25:332][  0]LogMemory: Physical Memory: 8724.10 MB used,  23893.54 MB free, 32617.64 MB total
+[2021.04.13-22.59.25:332][  0]LogMemory: Virtual Memory: 5166.68 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2021.04.13-22.59.25:430][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.13-22.59.25:517][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.13-22.59.25:519][  0]LogInit: Using OS detected language (en-US).
+[2021.04.13-22.59.25:519][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.13-22.59.25:616][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.13-22.59.25:988][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.13-22.59.26:049][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.13-22.59.26:049][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.13-22.59.26:484][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.13-22.59.26:484][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.13-22.59.26:484][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.13-22.59.26:484][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.13-22.59.26:660][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.04.13-22.59.26:660][  0]LogD3D11RHI:       8031/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.04.13-22.59.26:692][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.04.13-22.59.26:693][  0]LogD3D11RHI:       128/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.04.13-22.59.26:698][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.13-22.59.26:698][  0]LogD3D11RHI:       0/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.13-22.59.26:698][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.13-22.59.26:778][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.13-22.59.26:778][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.13-22.59.26:778][  0]LogWindows: EnumDisplayDevices:
+[2021.04.13-22.59.26:778][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.04.13-22.59.26:779][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.04.13-22.59.26:779][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.04.13-22.59.26:780][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.04.13-22.59.26:780][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.04.13-22.59.26:781][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.04.13-22.59.26:781][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.04.13-22.59.26:782][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.04.13-22.59.26:782][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.04.13-22.59.26:782][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2021.04.13-22.59.26:782][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2021.04.13-22.59.26:782][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.04.13-22.59.26:910][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.13-22.59.26:910][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.13-22.59.26:910][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.13-22.59.26:941][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.04.13-22.59.28:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.13-22.59.28:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.13-22.59.28:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.13-22.59.28:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.13-22.59.28:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.13-22.59.28:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.13-22.59.28:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.13-22.59.28:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.13-22.59.28:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.13-22.59.28:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.13-22.59.28:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.13-22.59.28:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.13-22.59.28:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.13-22.59.28:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.13-22.59.28:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.13-22.59.28:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.13-22.59.28:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.13-22.59.28:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.13-22.59.28:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.13-22.59.28:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.13-22.59.28:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.13-22.59.28:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.13-22.59.28:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.13-22.59.28:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.13-22.59.28:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.13-22.59.28:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.13-22.59.28:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.13-22.59.28:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.13-22.59.28:944][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.13-22.59.28:960][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.13-22.59.29:099][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Intermediate/Shaders/WorkingDirectory/14352/).
+[2021.04.13-22.59.29:099][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/micks/AppData/Local/Temp/UnrealShaderWorkingDir/6355DB9A4E25205FC6D26ABD44CFE65F/'.
+[2021.04.13-22.59.29:100][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.13-22.59.29:101][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.13-22.59.29:101][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.13-22.59.30:641][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.13-22.59.30:733][  0]LogDerivedDataCache: Loaded boot cache 0.09s 75MB C:/Users/micks/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.13-22.59.30:733][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/micks/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.04.13-22.59.30:733][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.13-22.59.30:733][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.13-22.59.30:733][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.13-22.59.30:733][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.13-22.59.30:753][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.13-22.59.30:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.13-22.59.30:753][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.13-22.59.30:756][  0]LogDerivedDataCache: Using Local data cache path C:/Users/micks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.13-22.59.30:756][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.13-22.59.30:756][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.13-22.59.30:855][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.13-22.59.30:856][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.13-22.59.30:904][  0]LogAssetRegistry: FAssetRegistry took 0.0058 seconds to start up
+[2021.04.13-22.59.31:352][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.13-22.59.31:589][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.13-22.59.31:589][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.13-22.59.31:589][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.13-22.59.31:589][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.13-22.59.31:589][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.13-22.59.31:618][  0]LogNetVersion: LostAndFound2021 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2981783377)
+[2021.04.13-22.59.32:559][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000029635156680), frame # 0
+[2021.04.13-22.59.32:559][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000296350F6AC0), frame # 0
+[2021.04.13-22.59.32:561][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029635103200), frame # 0
+[2021.04.13-22.59.32:670][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.098673 seconds
+[2021.04.13-22.59.32:678][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.04.13-22.59.32:678][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.04.13-22.59.32:678][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.13-22.59.33:386][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.13-22.59.33:395][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.13-22.59.33:625][  0]SourceControl: Source control is disabled
+[2021.04.13-22.59.33:625][  0]SourceControl: Source control is disabled
+[2021.04.13-22.59.33:632][  0]SourceControl: Source control is disabled
+[2021.04.13-22.59.33:638][  0]SourceControl: Source control is disabled
+[2021.04.13-22.59.33:653][  0]SourceControl: Source control is disabled
+[2021.04.13-22.59.33:683][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.13-22.59.33:684][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.13-22.59.34:394][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.13-22.59.34:435][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.13-22.59.34:435][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.13-22.59.34:537][  0]LogOcInput: OculusInput pre-init called
+[2021.04.13-22.59.34:563][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.13-22.59.34:564][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.13-22.59.34:681][  0]LogEngine: Initializing Engine...
+[2021.04.13-22.59.34:683][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.13-22.59.34:683][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.13-22.59.34:685][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.13-22.59.34:898][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.13-22.59.34:915][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.13-22.59.34:915][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002963A017C00), frame # 0
+[2021.04.13-22.59.34:915][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002963A0AE5C0), frame # 0
+[2021.04.13-22.59.34:946][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-22.59.34:946][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-22.59.34:946][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-22.59.34:946][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-22.59.34:946][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-22.59.34:946][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-22.59.34:946][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-22.59.34:946][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-22.59.34:947][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-22.59.34:947][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-22.59.35:950][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-22.59.35:950][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-22.59.35:950][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-22.59.35:950][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-22.59.35:950][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-22.59.35:950][  0]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-22.59.35:950][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-22.59.35:950][  0]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-22.59.36:722][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-22.59.36:727][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-22.59.44:860][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-22.59.44:861][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-22.59.44:863][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-22.59.44:866][  0]LogInit: FAudioDevice initialized.
+[2021.04.13-22.59.44:867][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.13-22.59.45:915][  0]LogDerivedDataCache: Saved boot cache 1.05s 75MB C:/Users/micks/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.13-22.59.45:916][  0]LogInit: Texture streaming: Enabled
+[2021.04.13-22.59.45:955][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.13-22.59.45:955][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.13-22.59.45:967][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.13-22.59.46:054][  0]LogInit: Transaction tracking system initialized
+[2021.04.13-22.59.46:098][  0]BlueprintLog: New page: Editor Load
+[2021.04.13-22.59.46:250][  0]LocalizationService: Localization service is disabled
+[2021.04.13-22.59.46:418][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.13-22.59.46:420][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.13-22.59.46:584][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.13-22.59.46:584][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.13-22.59.46:855][  0]LogFileCache: Scanning file cache for directory 'C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/' took 0.03s
+[2021.04.13-22.59.47:245][  0]SourceControl: Source control is disabled
+[2021.04.13-22.59.47:245][  0]LogUnrealEdMisc: Loading editor; pre map load, took 33.019
+[2021.04.13-22.59.47:245][  0]Cmd: MAP LOAD FILE="../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.13-22.59.47:246][  0]LightingResults: New page: Lighting Build
+[2021.04.13-22.59.47:247][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.59.47:247][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.59.47:248][  0]MapCheck: New page: Map Check
+[2021.04.13-22.59.47:248][  0]LightingResults: New page: Lighting Build
+[2021.04.13-22.59.47:269][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002963A017C00), frame # 0
+[2021.04.13-22.59.47:269][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002963A0AE5C0), frame # 0
+[2021.04.13-22.59.47:271][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.04.13-22.59.48:505][  0]LogAIModule: Creating AISystem for world BrettsMap
+[2021.04.13-22.59.48:505][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000296279F7E00), frame # 0
+[2021.04.13-22.59.48:505][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029628005BC0), frame # 0
+[2021.04.13-22.59.48:926][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.13-22.59.48:975][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.04.13-22.59.48:975][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.13-22.59.48:976][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.377ms to complete.
+[2021.04.13-22.59.48:976][  0]LogFileHelpers: Loading map 'BrettsMap' took 1.731
+[2021.04.13-22.59.48:979][  0]LogUnrealEdMisc: Total Editor Startup Time, took 34.752
+[2021.04.13-22.59.49:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.59.49:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.59.49:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.59.49:276][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.59.49:295][  0]LogCollectionManager: Loaded 0 collections in 0.004455 seconds
+[2021.04.13-22.59.49:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/Collections/' took 0.00s
+[2021.04.13-22.59.49:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/Developers/micks/Collections/' took 0.00s
+[2021.04.13-22.59.49:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/Collections/' took 0.00s
+[2021.04.13-22.59.49:321][  0]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 3427 classes and 821 folders.
+[2021.04.13-22.59.49:326][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.04.13-22.59.49:796][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.04.13-22.59.49:798][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.04.13-22.59.49:874][  0]LogSlate: Took 0.000437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.13-22.59.49:877][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.13-22.59.49:885][  0]LogSlate: Took 0.000553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.13-22.59.50:025][  0]LogRenderer: Reallocating scene render targets to support 1220x636 Format 10 NumSamples 1 (Frame:1).
+[2021.04.13-22.59.50:258][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.04.13-22.59.50:258][  0]LogLoad: (Engine Initialization) Total time: 36.03 seconds
+[2021.04.13-22.59.50:258][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.13-22.59.50:413][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.13-22.59.50:476][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.13-22.59.50:511][  1]LogAssetRegistry: Asset discovery search completed in 19.6093 seconds
+[2021.04.13-22.59.50:520][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.04.13-22.59.51:837][  5]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.13-23.00.37:509][584]LogEditorViewport: Clicking on Actor (LMB): TargetBP_C (TargetBP4)
+[2021.04.13-23.00.39:922][723]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.00.39:948][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.00.39:949][723]PIE: New page: PIE session: BrettsMap (Apr 13, 2021, 3:00:39 PM)
+[2021.04.13-23.00.39:951][723]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.13-23.00.39:953][723]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.13-23.00.39:953][723]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.00.40:072][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118898s)
+[2021.04.13-23.00.40:075][723]LogAIModule: Creating AISystem for world BrettsMap
+[2021.04.13-23.00.40:075][723]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002966F17E400), frame # 723
+[2021.04.13-23.00.40:075][723]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002966F196C00), frame # 723
+[2021.04.13-23.00.40:076][723]LogPlayLevel: PIE: World Init took: (0.003166s)
+[2021.04.13-23.00.40:076][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap (0.122355s)
+[2021.04.13-23.00.40:098][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.04.13-23.00.40:100][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.00.40:100][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.00.40:100][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.00.40:100][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.00.40:100][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.00.40:100][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.00.40:100][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.00.40:100][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.00.40:101][723]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.00.40:101][723]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.00.40:110][723]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.00.40:110][723]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.00.40:110][723]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.00.40:110][723]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.00.40:110][723]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.00.40:110][723]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.00.40:110][723]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.00.40:110][723]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.00.40:207][723]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.00.40:207][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.00.40:207][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.00.40:207][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.00.40:208][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.00.40:233][723]LogInit: FAudioDevice initialized.
+[2021.04.13-23.00.40:247][723]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.13-23.00.40:263][723]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap up for play (max tick rate 60) at 2021.04.13-19.00.40
+[2021.04.13-23.00.40:267][723]LogWorld: Bringing up level for play took: 0.017406
+[2021.04.13-23.00.40:267][723]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.04.13-23.00.40:273][723]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.04.13-23.00.40:275][723]PIE: Server logged in
+[2021.04.13-23.00.40:276][723]PIE: Play in editor total start time 0.332 seconds.
+[2021.04.13-23.00.40:324][724]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072192 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2021.04.13-23.01.35:690][ 40]LogBlueprintUserMessages: [TargetBP_2] Target Hit
+[2021.04.13-23.01.43:073][482]LogBlueprintUserMessages: [TargetBP2] Target Hit
+[2021.04.13-23.01.48:661][817]LogBlueprintUserMessages: [TargetBP3] Target Hit
+[2021.04.13-23.02.00:756][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.02.00:756][540]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.02.00:757][540]LogWorld: UWorld::CleanupWorld for BrettsMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.02.00:758][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.02.00:768][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.02.00:771][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.02.00:847][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.02.00:851][540]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002966F17E400), frame # 5540
+[2021.04.13-23.02.00:851][540]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002966F196C00), frame # 5540
+[2021.04.13-23.02.00:853][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.04.13-23.02.00:901][541]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.04.13-23.02.02:659][640]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.13-23.02.03:029][640]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 125 classes and 0 folders.
+[2021.04.13-23.02.04:679][640]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TargetBP.TargetBP
+[2021.04.13-23.02.05:307][640]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.13-23.02.28:027][881]LogSlate: Window 'TargetBP' being destroyed
+[2021.04.13-23.02.28:040][881]LogSlate: Window 'TargetBP' being destroyed
+[2021.04.13-23.02.28:041][881]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.02.28:041][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.02.28:126][881]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.13-23.02.28:126][881]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.02.28:126][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.03.51:514][872]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.13-23.03.54:429][988]LogSlate: Took 0.000714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.13-23.04.35:482][794]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.13-23.04.35:684][794]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.04.13-23.04.36:856][842]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.13-23.04.36:871][842]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.13-23.04.36:893][842]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.04.36:893][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.04.37:968][898]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.04.37:994][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.04.37:994][898]PIE: New page: PIE session: BrettsMap (Apr 13, 2021, 3:04:37 PM)
+[2021.04.13-23.04.37:994][898]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.04.38:107][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113769s)
+[2021.04.13-23.04.38:109][898]LogAIModule: Creating AISystem for world BrettsMap
+[2021.04.13-23.04.38:110][898]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029690A63A00), frame # 13898
+[2021.04.13-23.04.38:110][898]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000296AA083240), frame # 13898
+[2021.04.13-23.04.38:110][898]LogPlayLevel: PIE: World Init took: (0.002779s)
+[2021.04.13-23.04.38:110][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap (0.116868s)
+[2021.04.13-23.04.38:146][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.04.13-23.04.38:149][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.04.38:149][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.04.38:149][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.04.38:149][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.04.38:149][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.04.38:149][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.04.38:149][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.04.38:149][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.04.38:150][898]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.04.38:150][898]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.04.38:158][898]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.04.38:158][898]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.04.38:158][898]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.04.38:158][898]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.04.38:158][898]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.04.38:158][898]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.04.38:158][898]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.04.38:158][898]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.04.38:255][898]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.04.38:255][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.04.38:255][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.04.38:255][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.04.38:256][898]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.04.38:280][898]LogInit: FAudioDevice initialized.
+[2021.04.13-23.04.38:291][898]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.13-23.04.38:301][898]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap up for play (max tick rate 60) at 2021.04.13-19.04.38
+[2021.04.13-23.04.38:302][898]LogWorld: Bringing up level for play took: 0.009075
+[2021.04.13-23.04.38:302][898]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.04.13-23.04.38:306][898]PIE: Server logged in
+[2021.04.13-23.04.38:307][898]PIE: Play in editor total start time 0.318 seconds.
+[2021.04.13-23.04.49:756][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.04.49:757][579]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.04.49:757][579]LogWorld: UWorld::CleanupWorld for BrettsMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.04.49:758][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.04.49:771][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.04.49:777][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.04.49:867][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.04.49:868][579]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000296AA083240), frame # 14579
+[2021.04.13-23.04.49:868][579]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029690A63A00), frame # 14579
+[2021.04.13-23.04.49:873][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.04.13-23.04.49:919][580]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.04.13-23.04.51:860][689]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.13-23.05.00:880][ 20]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.13-23.05.01:004][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.04.13-23.05.02:530][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.05.02:556][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.05.02:556][ 81]PIE: New page: PIE session: BrettsMap (Apr 13, 2021, 3:05:02 PM)
+[2021.04.13-23.05.02:556][ 81]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.05.02:673][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116678s)
+[2021.04.13-23.05.02:675][ 81]LogAIModule: Creating AISystem for world BrettsMap
+[2021.04.13-23.05.02:675][ 81]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000296A36FBE00), frame # 15081
+[2021.04.13-23.05.02:675][ 81]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000296A3703D80), frame # 15081
+[2021.04.13-23.05.02:676][ 81]LogPlayLevel: PIE: World Init took: (0.002766s)
+[2021.04.13-23.05.02:676][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap (0.119733s)
+[2021.04.13-23.05.02:714][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.04.13-23.05.02:717][ 81]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.05.02:717][ 81]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.05.02:717][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.05.02:717][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.05.02:717][ 81]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.05.02:717][ 81]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.05.02:717][ 81]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.05.02:717][ 81]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.05.02:717][ 81]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.05.02:717][ 81]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.05.02:724][ 81]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.05.02:724][ 81]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.05.02:724][ 81]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.05.02:724][ 81]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.05.02:724][ 81]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.05.02:724][ 81]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.05.02:724][ 81]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.05.02:724][ 81]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.05.02:816][ 81]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.05.02:816][ 81]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.05.02:816][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.05.02:816][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.05.02:817][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.05.02:841][ 81]LogInit: FAudioDevice initialized.
+[2021.04.13-23.05.02:861][ 81]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.13-23.05.02:873][ 81]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap up for play (max tick rate 60) at 2021.04.13-19.05.02
+[2021.04.13-23.05.02:874][ 81]LogWorld: Bringing up level for play took: 0.010655
+[2021.04.13-23.05.02:874][ 81]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.04.13-23.05.02:878][ 81]PIE: Server logged in
+[2021.04.13-23.05.02:879][ 81]PIE: Play in editor total start time 0.327 seconds.
+[2021.04.13-23.05.02:923][ 82]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065794 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2021.04.13-23.05.09:716][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.05.09:716][478]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.05.09:717][478]LogWorld: UWorld::CleanupWorld for BrettsMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.05.09:718][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.05.09:727][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.05.09:732][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.05.09:813][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.05.09:814][478]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000296A3703D80), frame # 15478
+[2021.04.13-23.05.09:814][478]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000296A36FBE00), frame # 15478
+[2021.04.13-23.05.09:819][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.13-23.05.09:867][479]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.04.13-23.05.41:886][855]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.13-23.05.42:039][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.04.13-23.05.42:421][865]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.13-23.05.42:528][865]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.04.13-23.05.43:854][918]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.05.43:881][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.05.43:881][918]PIE: New page: PIE session: BrettsMap (Apr 13, 2021, 3:05:43 PM)
+[2021.04.13-23.05.43:881][918]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.05.44:001][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119093s)
+[2021.04.13-23.05.44:003][918]LogAIModule: Creating AISystem for world BrettsMap
+[2021.04.13-23.05.44:003][918]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000296A382FE00), frame # 16918
+[2021.04.13-23.05.44:003][918]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000296AD0CD300), frame # 16918
+[2021.04.13-23.05.44:003][918]LogPlayLevel: PIE: World Init took: (0.002409s)
+[2021.04.13-23.05.44:003][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap (0.121772s)
+[2021.04.13-23.05.44:044][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.04.13-23.05.44:046][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.05.44:047][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.05.44:047][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.05.44:047][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.05.44:047][918]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.05.44:047][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.05.44:047][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.05.44:047][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.05.44:047][918]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.05.44:047][918]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.05.44:054][918]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.05.44:054][918]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.05.44:054][918]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.05.44:054][918]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.05.44:054][918]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.05.44:054][918]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.05.44:054][918]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.05.44:054][918]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.05.44:146][918]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.05.44:147][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.05.44:147][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.05.44:147][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.05.44:147][918]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.05.44:172][918]LogInit: FAudioDevice initialized.
+[2021.04.13-23.05.44:192][918]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.13-23.05.44:203][918]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap up for play (max tick rate 60) at 2021.04.13-19.05.44
+[2021.04.13-23.05.44:203][918]LogWorld: Bringing up level for play took: 0.009741
+[2021.04.13-23.05.44:204][918]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.04.13-23.05.44:209][918]PIE: Server logged in
+[2021.04.13-23.05.44:210][918]PIE: Play in editor total start time 0.332 seconds.
+[2021.04.13-23.05.44:250][919]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.070859 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2021.04.13-23.05.46:170][ 10]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.13-23.05.46:184][ 10]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.13-23.05.46:185][ 10]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.05.46:185][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.05.50:255][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.05.50:256][245]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.05.50:256][245]LogWorld: UWorld::CleanupWorld for BrettsMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.05.50:257][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.05.50:271][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.05.50:275][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.05.50:349][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.05.50:355][245]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000296AD0CD300), frame # 17245
+[2021.04.13-23.05.50:355][245]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000296A382FE00), frame # 17245
+[2021.04.13-23.05.50:360][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.04.13-23.05.50:407][246]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.04.13-23.05.52:300][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.13-23.06.05:639][861]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.13-23.06.05:764][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.04.13-23.06.06:862][902]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.06.06:888][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.06.06:888][902]PIE: New page: PIE session: BrettsMap (Apr 13, 2021, 3:06:06 PM)
+[2021.04.13-23.06.06:889][902]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.06.07:005][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117133s)
+[2021.04.13-23.06.07:007][902]LogAIModule: Creating AISystem for world BrettsMap
+[2021.04.13-23.06.07:008][902]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029663BA7E00), frame # 17902
+[2021.04.13-23.06.07:008][902]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029684B60CC0), frame # 17902
+[2021.04.13-23.06.07:008][902]LogPlayLevel: PIE: World Init took: (0.002947s)
+[2021.04.13-23.06.07:008][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap (0.120403s)
+[2021.04.13-23.06.07:048][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.04.13-23.06.07:050][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.06.07:050][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.06.07:050][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.06.07:050][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.06.07:050][902]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.06.07:050][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.06.07:050][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.06.07:050][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.06.07:051][902]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.06.07:051][902]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.06.07:058][902]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.06.07:058][902]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.06.07:058][902]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.06.07:058][902]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.06.07:058][902]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.06.07:058][902]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.06.07:058][902]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.06.07:058][902]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.06.07:152][902]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.06.07:152][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.06.07:152][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.06.07:152][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.06.07:153][902]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.06.07:177][902]LogInit: FAudioDevice initialized.
+[2021.04.13-23.06.07:200][902]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.13-23.06.07:215][902]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap up for play (max tick rate 60) at 2021.04.13-19.06.07
+[2021.04.13-23.06.07:216][902]LogWorld: Bringing up level for play took: 0.015369
+[2021.04.13-23.06.07:217][902]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.04.13-23.06.07:221][902]PIE: Server logged in
+[2021.04.13-23.06.07:223][902]PIE: Play in editor total start time 0.338 seconds.
+[2021.04.13-23.06.07:261][903]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072485 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2021.04.13-23.06.20:496][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.06.20:496][682]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.06.20:497][682]LogWorld: UWorld::CleanupWorld for BrettsMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.06.20:498][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.06.20:508][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.06.20:514][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.06.20:613][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.06.20:614][682]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029684B60CC0), frame # 18682
+[2021.04.13-23.06.20:614][682]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029663BA7E00), frame # 18682
+[2021.04.13-23.06.20:619][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.04.13-23.06.20:674][683]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.04.13-23.06.30:384][113]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.13-23.06.30:505][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.04.13-23.06.33:064][218]LogRenderer: Reallocating scene render targets to support 1220x692 Format 10 NumSamples 1 (Frame:1).
+[2021.04.13-23.06.39:475][578]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.04.13-23.06.39:601][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.04.13-23.06.40:781][644]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.13-23.06.40:797][644]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.04.13-23.06.40:804][644]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.06.40:804][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.06.41:999][709]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.06.42:026][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.06.42:026][709]PIE: New page: PIE session: BrettsMap (Apr 13, 2021, 3:06:42 PM)
+[2021.04.13-23.06.42:026][709]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.06.42:140][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113766s)
+[2021.04.13-23.06.42:142][709]LogAIModule: Creating AISystem for world BrettsMap
+[2021.04.13-23.06.42:142][709]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002968FC3E200), frame # 19709
+[2021.04.13-23.06.42:143][709]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000296AA3DB740), frame # 19709
+[2021.04.13-23.06.42:143][709]LogPlayLevel: PIE: World Init took: (0.002512s)
+[2021.04.13-23.06.42:143][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap (0.116521s)
+[2021.04.13-23.06.42:187][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.04.13-23.06.42:191][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.06.42:191][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.06.42:191][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.06.42:191][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.06.42:191][709]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.06.42:191][709]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.06.42:191][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.06.42:191][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.06.42:192][709]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.06.42:192][709]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.06.42:199][709]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.06.42:199][709]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.06.42:199][709]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.06.42:199][709]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.06.42:199][709]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.06.42:199][709]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.06.42:199][709]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.06.42:199][709]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.06.42:299][709]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.06.42:299][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.06.42:299][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.06.42:299][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.06.42:300][709]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.06.42:324][709]LogInit: FAudioDevice initialized.
+[2021.04.13-23.06.42:332][709]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.13-23.06.42:342][709]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap up for play (max tick rate 60) at 2021.04.13-19.06.42
+[2021.04.13-23.06.42:343][709]LogWorld: Bringing up level for play took: 0.009174
+[2021.04.13-23.06.42:343][709]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.04.13-23.06.42:347][709]PIE: Server logged in
+[2021.04.13-23.06.42:348][709]PIE: Play in editor total start time 0.326 seconds.
+[2021.04.13-23.07.51:562][855]LogBlueprintUserMessages: [TargetBP_2] Target Hit
+[2021.04.13-23.07.52:857][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.07.52:857][930]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.07.52:858][930]LogWorld: UWorld::CleanupWorld for BrettsMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.07.52:861][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.07.52:870][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.07.52:876][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.07.52:953][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.07.52:955][930]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000296AA3DB740), frame # 23930
+[2021.04.13-23.07.52:955][930]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002968FC3E200), frame # 23930
+[2021.04.13-23.07.52:960][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.04.13-23.07.53:011][931]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.04.13-23.08.42:622][870]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.08.42:648][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.08.42:648][870]PIE: New page: PIE session: BrettsMap (Apr 13, 2021, 3:08:42 PM)
+[2021.04.13-23.08.42:649][870]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.08.42:807][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157949s)
+[2021.04.13-23.08.42:809][870]LogAIModule: Creating AISystem for world BrettsMap
+[2021.04.13-23.08.42:810][870]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000296A9C11400), frame # 26870
+[2021.04.13-23.08.42:810][870]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000296847B79C0), frame # 26870
+[2021.04.13-23.08.42:810][870]LogPlayLevel: PIE: World Init took: (0.003269s)
+[2021.04.13-23.08.42:811][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap (0.161596s)
+[2021.04.13-23.08.42:852][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.04.13-23.08.42:862][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.08.42:862][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.08.42:862][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.08.42:862][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.08.42:862][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.08.42:862][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.08.42:862][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.08.42:862][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.08.42:863][870]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.08.42:863][870]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.08.42:869][870]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.08.42:870][870]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.08.42:870][870]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.08.42:870][870]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.08.42:870][870]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.08.42:870][870]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.08.42:870][870]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.08.42:870][870]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.08.42:969][870]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.08.42:969][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.08.42:969][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.08.42:970][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.08.42:970][870]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.08.42:996][870]LogInit: FAudioDevice initialized.
+[2021.04.13-23.08.43:011][870]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.13-23.08.43:021][870]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap up for play (max tick rate 60) at 2021.04.13-19.08.43
+[2021.04.13-23.08.43:022][870]LogWorld: Bringing up level for play took: 0.009438
+[2021.04.13-23.08.43:023][870]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.04.13-23.08.43:027][870]PIE: Server logged in
+[2021.04.13-23.08.43:028][870]PIE: Play in editor total start time 0.383 seconds.
+[2021.04.13-23.08.43:082][871]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072191 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2021.04.13-23.08.59:466][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.08.59:466][850]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.08.59:466][850]LogWorld: UWorld::CleanupWorld for BrettsMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.08.59:468][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.08.59:482][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.08.59:488][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.08.59:520][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.08.59:569][850]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000296847B79C0), frame # 27850
+[2021.04.13-23.08.59:569][850]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000296A9C11400), frame # 27850
+[2021.04.13-23.08.59:576][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.04.13-23.08.59:627][851]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.04.13-23.09.01:539][963]LogEditorViewport: Clicking on Actor (LMB): Brush (Sphere Brush)
+[2021.04.13-23.09.07:948][342]LogEditorViewport: Clicking on Actor (LMB): Brush (Sphere Brush)
+[2021.04.13-23.11.31:832][254]LogModelComponent: Warning: Material MI_Floor_01a requires adjacency information because of Crack Free Displacement or PN Triangle Tesselation, which is not supported with model components. Falling back to DefaultMaterial.
+[2021.04.13-23.14.09:495][166]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.04.13-23.14.10:401][166]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap7E07098248E910C5076757A6535707FE.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.14.10:469][166]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData9CDADDBB468316B289006F99A457A2F6.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.14.10:508][166]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.14.10:508][166]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.14.10:508][166]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.04.13-23.14.10:905][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.04.13-23.14.11:553][192]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMapC6D8DE804BF0447FF631698516E96DE6.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.14.11:625][192]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData76B8773849862E8AF22128B59EF4B686.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.14.11:663][192]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.14.11:664][192]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.14.11:664][192]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.04.13-23.14.32:826][545]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.14.32:893][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.14.32:894][545]PIE: New page: PIE session: BrettsMap (Apr 13, 2021, 3:14:32 PM)
+[2021.04.13-23.14.32:894][545]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.14.33:204][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.309187s)
+[2021.04.13-23.14.33:210][545]LogAIModule: Creating AISystem for world BrettsMap
+[2021.04.13-23.14.33:210][545]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000296A7C6F800), frame # 46545
+[2021.04.13-23.14.33:210][545]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029645BE2340), frame # 46545
+[2021.04.13-23.14.33:211][545]LogPlayLevel: PIE: World Init took: (0.007047s)
+[2021.04.13-23.14.33:212][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap to /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap (0.317098s)
+[2021.04.13-23.14.33:291][545]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2021.04.13-23.14.33:306][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.14.33:306][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.14.33:306][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.14.33:307][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.14.33:307][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.14.33:307][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.14.33:307][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.14.33:307][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.14.33:308][545]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.14.33:308][545]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.14.33:324][545]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.14.33:324][545]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.14.33:324][545]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.14.33:324][545]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.14.33:324][545]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.14.33:324][545]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.14.33:325][545]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.14.33:325][545]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.14.33:558][545]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.14.33:558][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.14.33:559][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.14.33:559][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.14.33:560][545]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.14.33:619][545]LogInit: FAudioDevice initialized.
+[2021.04.13-23.14.33:639][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.13-23.14.33:661][545]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap.BrettsMap up for play (max tick rate 0) at 2021.04.13-19.14.33
+[2021.04.13-23.14.33:663][545]LogWorld: Bringing up level for play took: 0.020524
+[2021.04.13-23.14.33:663][545]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.04.13-23.14.33:672][545]PIE: Server logged in
+[2021.04.13-23.14.33:675][545]PIE: Play in editor total start time 0.79 seconds.
+[2021.04.13-23.14.33:812][546]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.086122 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2021.04.13-23.15.10:369][868]LogBlueprintUserMessages: [TargetBP_2] Target Hit
+[2021.04.13-23.15.15:757][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.15.15:757][349]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_BrettsMap
+[2021.04.13-23.15.15:757][349]LogWorld: UWorld::CleanupWorld for BrettsMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.15.15:759][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.15.15:769][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.15.15:773][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.15.15:813][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.15.15:874][349]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029645BE2340), frame # 50349
+[2021.04.13-23.15.15:874][349]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000296A7C6F800), frame # 50349
+[2021.04.13-23.15.15:878][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.04.13-23.15.15:929][350]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.04.13-23.15.16:888][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue_02a)
+[2021.04.13-23.15.34:030][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.04.13-23.15.34:675][839]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap63B5C6C14E487234C54CB1AB51F9B6AB.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.15.34:736][839]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData95FD29984D787CA6966F098997968135.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.15.34:776][839]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.15.34:776][839]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.15.34:776][839]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.04.13-23.16.28:151][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.04.13-23.16.28:783][147]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap8C2B4E064B338434DF166987BDFD93C7.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.16.28:842][147]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData168AA6A64E47AD8501019A8A3ADE74A7.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.16.28:884][147]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.16.28:884][147]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.16.28:884][147]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.04.13-23.16.29:304][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.13-23.16.29:950][173]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap19C0B87C451ECB20A42F19856A31C78E.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.16.30:016][173]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData2BAF1CF24A79A58368B45FBF0655531D.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.16.30:052][173]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.16.30:052][173]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.16.30:053][173]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.04.13-23.16.30:186][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.13-23.16.31:635][176]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMapDF91FE484F4E9559AD0F8B940C86AD81.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.16.31:697][176]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData9D5E041C47A87FBFC6651CA5DEA6A889.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.16.31:729][176]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.16.31:729][176]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.16.31:729][176]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.04.13-23.16.31:948][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.13-23.16.32:593][182]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap13F3ADD44636F4AABFA7F296919F3BB6.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.16.32:652][182]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData728163C743B781EA5A5D508CFC985D59.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.16.32:695][182]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.16.32:695][182]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.16.32:695][182]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.04.13-23.16.33:110][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.04.13-23.16.34:323][204]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMapFD47BA654AE971B075D28C8C687C8383.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.16.34:386][204]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData54A0F8044F7EAEA629D2168CEB287C31.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.16.34:416][204]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.16.34:416][204]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.16.34:416][204]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.04.13-23.17.01:740][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.04.13-23.17.02:397][ 98]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMapD93B826B4A9B2C34D9BAD09F69E361D8.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.17.02:458][ 98]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltDataD6805001413EC164A3B98CB526B0E2C6.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.17.02:507][ 98]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.17.02:507][ 98]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.17.02:507][ 98]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.04.13-23.17.03:138][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.13-23.17.04:277][130]LogSlate: Window 'Save Content' being destroyed
+[2021.04.13-23.17.04:439][130]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/FirstPersonCharacter4574ABAC45EC50DAAEC15890598F75D0.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.04.13-23.17.04:465][130]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.04.13-23.17.04:466][130]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.13-23.17.08:734][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.04.13-23.17.09:377][419]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap54372A554A2D88E91CDF7696EEE4AFA9.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.17.09:439][419]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData3978B67341A4CD3997944CB59BB0DE68.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.17.09:477][419]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.17.09:477][419]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.17.09:477][419]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+[2021.04.13-23.20.03:047][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.04.13-23.20.03:752][ 95]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap0D52E1424423390A49C106A7D652594E.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap.umap'
+[2021.04.13-23.20.03:816][ 95]LogSavePackage: Moving '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Saved/BrettsMap_BuiltData19D7397E4F15D2CDDE2CE796F6741A51.tmp' to '../../../../../../Users/micks/OneDrive/Documents/GitHub/LostAndFound20212/Content/FirstPersonBP/Maps/BrettsMap_BuiltData.uasset'
+[2021.04.13-23.20.03:858][ 95]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.20.03:858][ 95]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BrettsMap.BrettsMap
+[2021.04.13-23.20.03:858][ 95]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BrettsMap_BuiltData.BrettsMap_BuiltData
+>>>>>>> origin/Brett_Branch_3
